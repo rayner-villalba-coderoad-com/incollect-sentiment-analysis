@@ -1,0 +1,979 @@
+id,site_id,listing_id,submitted_date,dealer_name,listing_period_type,listing_title,listing_artist_name,level1_category_name,level1_category_internal_name,level2_category_name,level2_category_internal_name,level3_category_name,level3_category_internal_name,full_name,phone,email,question,style_names,inquire_combo,request_hold,is_make_offer,offered_price,replied,inquiry_type,listing_status,is_response,listing_publish_date,listing_republish_date,from_uid,is_trade_member,msg_status,ip,quarantine_action_date,quarantine_date,is_firebase_complete,inquire_firebase_key,from_uid_firebase_ref,is_logged,to_uid,to_email
+159261,870,587819,1751056611,"The Gallery at 200 Lex ",3,"Bespoke White Oak Geometric Sideboard or Credenza, Italy",,Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Sideboards & Credenzas","cabinets | sideboards","JACQUELINE GARCIA-HALEY",3059648440,info@garciahaleydesign.com,,"Collectible Design | Mid Century | Minimalist",,1,1,10000,1,make-offer,,0,1748509081,1748509081,0,0,Approved,209.37.22.36,0,0,1,-OTn5sHS4Hyk8thba8E-,Anonym685f00e26b3fc,0,19254,thegallery@nydc.com
+159260,870,477380,1751055347,"The Gallery at 200 Lex ",3,"1950s Italian Oval Brass Mirror",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"The Gallery at 200 Lex ",646.293.6633,thegallery@nydc.com,"Hi Jinny,
+Thank you for reaching out to The Gallery at 200 Lex.  I will email you directly.
+Back to you soon.
+Best regards,
+Larry Weller
+larry@nydc.com
+415-531-1425 Cell","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1698396563,1698396563,19254,1,Approved,216.187.41.194,0,0,1,-OTn129i53iaZqN2ML6R,19254,1,22576,jinny@odg-interiors.com
+159259,870,477380,1751055028,"The Gallery at 200 Lex ",3,"1950s Italian Oval Brass Mirror",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Jinny Kim",NULL,jinny@odg-interiors.com," I would like to request the trade price for this listing.","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1698396563,1698396563,22576,1,Approved,76.83.31.38,0,0,1,-OTn-ph0Vv0zQ0jrJeyW,22576,1,19254,thegallery@nydc.com
+159258,543,538291,1751053038,Bloomberry,3,"Pair of Sonja Katzin table lamps for ASEA","  Asea",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Randle Looney",NULL,randle@leeledbetter.com,"My colleague, Paul, has already requested pricing, but I need to process payment, please. 
+
+Thanks!
+Randle","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",1,0,0,0,inquire,,0,1725357586,1725357586,33241,1,Approved,23.121.1.27,0,0,1,-OTmtEKY6PqBkEs8bDUM,33241,1,13768,patricia@bloomberry.eu
+159257,1818,449966,1751052755,Greenapple,3,"Mid-Century Modern Maia Dining Chair White Holly Hunt Fabric Handmade Greenapple","Rute  Martins",Furniture,furniture,Seating,seating,"Dining Chairs, Office Chairs, Side Chairs","dining-chairs | office-chairs | side-chairs","Stephanie King",NULL,stephanie@stephaniekingdesign.com," How many of these chairs do you have in stock?","Collectible Design | Mid Century | Modern"," ",0,0,0,0,inquire,,0,1686568407,1745485097,35800,0,Approved,24.34.112.235,0,0,1,-OTms9Nx6JTIFfW7NAAt,35800,1,31260,sergio.rebola@greenapple.pt
+159256,1725,591156,1751052710,"Vintage Looks",2,"19th Century &amp;quot;Rouge de Rance&amp;quot; Pair of Columnar French Table Lamps",,Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Randle Looney",NULL,randle@leeledbetter.com," I would like to request the trade price for this listing.","Revival | Traditional","I would like to request the trade price for this listing.",1,0,0,0,inquire,,0,1749114953,1749114953,33241,1,Approved,23.121.1.27,0,0,1,-OTmrzldqIbOnrs12Pt7,33241,1,29636,VintageLooks@gmail.com
+159255,801,498244,1751050880,Amorph,3,"Amorph&amp;#039;s Amy Side Table | Ebony Finish","  Amorph",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"Stephanie King",NULL,stephanie@stephaniekingdesign.com," I would like to request the price for this listing.","Contemporary | Minimalist | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1710225392,1743664915,35800,0,Approved,24.34.112.235,0,0,1,-OTml07OD1N-n4V1KeYY,35800,1,18314,info@a-morph.com
+159254,707,272740,1751048135,"Modern Drama",3,"Nobi Floor Lamp by Fontana Arte, 1990s","  Fontana Arte (FontanaArte)",Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Modern Drama",312.292.1843,info@moderndrama20.com,"It then tightens at the mid point!",Modern,"I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1609942527,1734526446,16994,1,Approved,97.223.139.87,0,0,1,-OTmaXHThnI79utJTUP_,16994,1,29809,hannah@jessicaschuster.com
+159253,707,272740,1751047918,"Modern Drama",3,"Nobi Floor Lamp by Fontana Arte, 1990s","  Fontana Arte (FontanaArte)",Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Hannah Sellers",NULL,hannah@jessicaschuster.com,"Got it okay great thanks",Modern,"I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1609942527,1734526446,29809,1,Approved,173.53.69.216,0,0,1,-OTm_hJxQ7qHL6BZbG9I,29809,1,16994,info@moderndrama20.com
+159252,707,272740,1751047878,"Modern Drama",3,"Nobi Floor Lamp by Fontana Arte, 1990s","  Fontana Arte (FontanaArte)",Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Modern Drama",312.292.1843,info@moderndrama20.com,"Hi,
+No someone must have pulled it out of the base post.  It should only be straight!
+Thanks again
+Kris
+Modern Drama",Modern,"I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1609942527,1734526446,16994,1,Approved,97.223.139.87,0,0,1,-OTm_YyFHV1B-0StzPCz,16994,1,29809,hannah@jessicaschuster.com
+159251,631,570910,1751046603,"Guy Regal",3,"Rare Pare of Arm Chairs by Adrien Audoux and Frida Minet","  Adrien Audoux & Frida Minet",Furniture,furniture,Seating,seating,Armchairs,armchairs,Callie,,callie.palmer@kenfulk.com," Hello. I am wondering if you could please send images of the condition of the items. Also, could you please provide information on trade pricing and lead time?","Mid Century | Modern | Studio Craft"," ",1,0,0,0,inquire,,0,1741250576,1741250576,0,0,Approved,98.116.10.71,0,0,1,-OTmVgwkj5rsxa6fxbhw,Anonym685ed9ca36136,0,15492,info@guyregalnyc.com
+159250,2367,539594,1751041400,"Modern Masters Tapestries",3,"Katsura – Harmonie noire et verte","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,"Thank you for your reply!
+The tapestry is currently listed at $110,000. 
+Please let me know if you need more information. I'd be happy to assist you further.",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,,1,1726565017,1744271607,53741,1,Approved,108.41.57.244,0,0,1,-OTmBqYLBWUADmzP3VS0,53741,1,22137,malzahn.don@gmail.com
+159249,707,272740,1751038644,"Modern Drama",3,"Nobi Floor Lamp by Fontana Arte, 1990s","  Fontana Arte (FontanaArte)",Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Hannah Sellers",NULL,hannah@jessicaschuster.com,"Hi! Question- does this look right? So it bends in the middle? Is the purpose to keep it up straight? ",Modern,"I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1609942527,1734526446,29809,1,Approved,173.53.69.216,0,0,1,-OTm1K9OPKcLzxSe6Q6p,29809,1,16994,info@moderndrama20.com
+159248,707,272740,1751038637,"Modern Drama",3,"Nobi Floor Lamp by Fontana Arte, 1990s","  Fontana Arte (FontanaArte)",Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Hannah Sellers",NULL,hannah@jessicaschuster.com,-NaN-,Modern,"I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1609942527,1734526446,29809,1,Approved,173.53.69.216,0,0,1,-OTm1Iytwp-oEGGA_fpO,29809,1,16994,info@moderndrama20.com
+159247,1725,582271,1751036183,"Vintage Looks",3,"1970s Lane Brutalist Nine Drawer Walnut Dresser Mid Century","  Lane Acclaim",Furniture,furniture,"Storage & Case Pieces",case-pieces,Dressers,dressers,"Tor Sauder",NULL,torsauder@torand.co,"Hi there, 
+
+My clients have provisionally approved this piece for their guest room/den. Do you mind placing it on hold while we sort out the paperwork please? I'd love to find out the trade price and can you please provide a shipping quote to the following receiving warehouse (no white glove service needed) -
+
+Empire Movers
+S/M Leonard Street
+30-30 Hunter’s  Point Ave
+Long Island City, NY 11101
+
+Thanks,
+Tor.","Brutalist | Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,0,1746091499,1746091499,56402,0,Approved,75.219.237.204,0,0,1,-OTlswmhTT6qLeWqqHth,56402,1,29636,VintageLooks@gmail.com
+159246,717,497319,1751033271,ILIAD,3,"A French Modernist inspired Game Table by ILIAD Design","  ILIAD DESIGN",Furniture,furniture,Tables,tables,"Game Tables",game-tables,ILIAD,212.935.4382,info@iliadny.com,"Hi Rebekah, 
+Thanks for following up-- we are following up with our workshop and will get back to you shortly. 
+Kind regards,
+Sara ","Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1708339915,1708339915,17153,1,Approved,195.252.198.248,0,0,1,-OTlhpUR-nSRRvJoifoI,17153,1,15486,rebekahjacobson@gmail.com
+159245,717,497319,1751033153,ILIAD,3,"A French Modernist inspired Game Table by ILIAD Design","  ILIAD DESIGN",Furniture,furniture,Tables,tables,"Game Tables",game-tables,"Rebekah Jacobson",NULL,rebekahjacobson@gmail.com,"Hello Following up this request for trade pricing, and shipping to Los Angeles 90210. Please advise asap and thanks.","Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1708339915,1708339915,15486,1,Approved,24.24.181.167,0,0,1,-OTlhNizzIS3NJMY_Vbw,15486,1,17153,info@iliadny.com
+159244,545,41601,1751032592,TFTM,3,"“Folclore 2” By Lula Cardoso Ayres","Lula Cardoso Ayres","Decorative Arts",decorative-arts,"Wall Art",wall-art,Paintings,paintings,"Caetano coimbra",NULL,coimbracaetano@yahoo.com,,Modern,,1,1,30000,1,make-offer,,0,1474915014,1735633100,48199,0,Approved,24.28.119.19,0,0,1,-OTlfEnTa0TLFXSs7CuB,48199,1,13785,contact@tftmmelrose.com
+159243,870,590993,1751032448,"The Gallery at 200 Lex ",3,"Rare Rosso Marble Side or Console Table by Angelo Mangiarotti","Angelo  Mangiarotti",Furniture,furniture,Tables,tables,"Console & Pier Tables, Side Tables","console-pier-tables | side-tables","The Gallery at 200 Lex ",646.293.6633,thegallery@nydc.com,"Please reply with the shipping address for the quote.
+Thank you.","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1749118517,1749118517,19254,1,Approved,216.187.41.194,0,0,1,-OTlehAfHbwkR_yYIqMQ,19254,1,15486,rebekahjacobson@gmail.com
+159242,766,106496,1751009003,"Stanislas Reboul",3,"Contemporary Brass Mirror 3 Circle, Italy",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Stanislas Reboul",0033670583780,reboulstanislas@gmail.com,"Hi,
+
+We talk with the workshop, we can produce the mirror. Please send me your custom dimensions we will provide the final quote.
+
+Thanks
+Stanislas ","Contemporary | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,1,1522685844,1747908615,17759,1,Approved,92.184.107.249,0,0,1,-OTkGG4xoh3-DpgVWuIJ,17759,1,54116,gestone2@me.com
+159241,623,98678,1750980389,"Naga Antiques",3,"Pair of Chinese Lacquer Etageres",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Shelves,shelves,"Ann Handler",NULL,ann@oakgroverestoration.com,"Maggie,
+Thank you for checking on the shipping for me. I assume they will send their quotes directly to me, correct?
+Unfortunately, I don't have an additional recommendation at the moment.
+I also want to thank you for accepting my offer. These pieces will be given a perfect setting and will be greatly appreciated and admired. Your shop looks amazing and I hope to visit it sometime soon.
+Thank you once again for all your help.
+
+Warmest regards,
+Ann Handler
+email: ann@oakgroverestoration.com
+text: (240) 381-9073",Asian,,0,1,5400,1,make-offer,,1,1517244866,1722327457,39504,1,Approved,73.134.83.116,0,0,1,-OTiZ66tHyf__kT7FEFf,39504,1,15320,thegallery@nagaantiques.com
+159240,545,60901,1750978478,TFTM,3,"Early Excellent Original Birch Alvar Aalto Bar Cart","Alvar  Aalto",Furniture,furniture,Tables,tables,"Serving Tables & Bar Carts, Other","serving-tables | other",TFTM,323.852.9407,contact@tftmmelrose.com,"Hi Rebekah,
+The trade price is $8,500.
+Maddie Sadofski
+TFTM","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1491230853,1749116545,13785,1,Approved,107.201.129.151,0,0,1,-OTiRoJlDmSlMsUaiFTZ,13785,1,15486,rebekahjacobson@gmail.com
+159239,108,0,1750978193,"Allan Katz Americana",0,,,,,,,,,"Elizabeth McManus",NULL,elizabeth.mcmanus@snet.net,"Allan - I'm hoping you can provide some direction on who can provide information on a antique desk I bought 10 years ago.  I'm a Madison resident and bought the desk at an estate sale for Linda Nye Emmons.  Linda was a Madison resident and  served as a CT State Legislator.  She's descended from the Nye whaling family of Sandwich MA, and reportedly the desk is from that family.  I appreciate any help in my search for info, thank you.
+I'm looking for someone who can take a look at the desk to confirm age, value, etc. o",,,0,0,0,0,email-dealer,,0,0,0,0,0,Approved,73.218.240.92,0,0,1,-OTiQj0x0_A49g659d54,Anonym685dce9105305,0,1396,folkkatz@gmail.com
+159238,543,538291,1750972935,Bloomberry,3,"Pair of Sonja Katzin table lamps for ASEA","  Asea",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Lee Ledbetter & Associates Architecture/Interiors",504.566.9669,paul@leeledbetter.com," I would like to request the trade price for this listing. Also we will be presenting to the clients tomorrow if we can place them on hold. Thanks! ","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1725357586,1725357586,21451,1,Approved,23.121.1.27,0,0,1,-OTi6ePIvDhtLh7fBpP4,21451,1,13768,patricia@bloomberry.eu
+159237,543,513740,1750972840,Bloomberry,3,"Pair of brass and leather table lamps",,Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Lee Ledbetter & Associates Architecture/Interiors",504.566.9669,paul@leeledbetter.com," I would like to request the price for this listing. Also we are presenting these to the client tomorrow if we can put this on hold. Thanks! ","Mid Century | Modern | Scandinavian Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,0,1714462952,1714462952,21451,1,Approved,23.121.1.27,0,0,1,-OTi6I7FK8O9TSsPyUMH,21451,1,13768,patricia@bloomberry.eu
+159236,582,577058,1750972455,"L&#039;Art De Vivre",3,"Angelo Lelii for Arredoluce: Rare and Exceptional Chandelier, Italy 1950&amp;#039;s","Angelo  Lelli (Lelii)",Furniture,furniture,Lighting,lighting,"Chandeliers and Pendants",chandeliers-and-pendants,"L&#039;Art De Vivre",212.734.3510,cfuller174@aol.com,"Dear Claire,
+
+Thank you for looking at this rare chandelier by Angelo Lelii. We sent a memo with images and quote to your email earlier today. Please let us know if you need further information.
+
+Warm regards,
+
+Patricia Fuller
+L'ART DE VIVRE
+978 Lexington Avenue ( 71 /72)
+New York, N.Y. 10021
+212 734 3510
+","Collectible Design | Mid Century | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,new,1,1749118006,1749708088,14277,1,Approved,108.54.122.95,0,0,1,-OTi4qD5usUTyvFPTd5a,14277,1,24355,claire@robertcouturier.com
+159235,582,565283,1750970583,"L&#039;Art De Vivre",3,"Paolo Buffa Handsome Bar Cabinet, Italy 1950&amp;#039;s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Dry Bars",dry-bars,"L&#039;Art De Vivre",212.734.3510,cfuller174@aol.com,"Dear Ms. Jacobson,
+
+We sent you a memo and the quote from Air Sea packing by email earlier today. Please let us know if we can provide you with anything further.
+
+With best wishes,
+
+Patricia Fuller
+L'ART DE VIVRE
+978 Lexington Avenue
+New York, N.Y. 10021
+212 734 3510","Collectible Design | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1740019515,1740056965,14277,1,Approved,108.54.122.95,0,0,1,-OThygB3wVKnYz1o5-KK,14277,1,15486,rebekahjacobson@gmail.com
+159234,2397,571464,1750970512,supersuite.plus,3,"Ernst Palme Palwa Large Illuminated Flower Wall Mirror, Brass &amp;amp; Crystals, 1970s","  Palwa",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,supersuite.plus,,hello@supersuite.plus,"Great, I just wanted to send it to you. ","Mid Century | Modern"," ",0,0,0,1,inquire,,1,1743065031,1743065031,55562,1,Approved,77.119.198.5,0,0,1,-OThyQ03WJixJNMFYbs_,55562,1,21471,kerol@kembleinteriors.com
+159233,2397,571464,1750970293,supersuite.plus,3,"Ernst Palme Palwa Large Illuminated Flower Wall Mirror, Brass &amp;amp; Crystals, 1970s","  Palwa",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Kerol Decristo",NULL,kerol@kembleinteriors.com,"Hi again,
+i actually just found the picture in the below thread form 4/10...","Mid Century | Modern"," ",0,0,0,1,inquire,,1,1743065031,1743065031,21471,1,Approved,173.162.123.193,0,0,1,-OThx_RDlbZOwaPWJH7B,21471,1,55562,hello@supersuite.plus
+159232,2397,571464,1750970212,supersuite.plus,3,"Ernst Palme Palwa Large Illuminated Flower Wall Mirror, Brass &amp;amp; Crystals, 1970s","  Palwa",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Kerol Decristo",NULL,kerol@kembleinteriors.com,"Thank you for your fast reply Alexander. I appreciate your help. Per clients request, we had to have the mirror replaced due to a dark mark. maybe they misplaced the back panel? If you have any images of the backside you can send to us, please do. We will figure this out. Thanks again!  Enjoy the rest of your day.
+Best,
+kerol ","Mid Century | Modern"," ",0,0,0,1,inquire,,1,1743065031,1743065031,21471,1,Approved,173.162.123.193,0,0,1,-OThxGpB7ioosObKxLBo,21471,1,55562,hello@supersuite.plus
+159231,1010,576993,1750969939,"Jasper Maison",3,"Guillerme and Chambron, Rare Daybed for Votre Maison&amp;quot;, 1960","Guillerme et Chambron",Furniture,furniture,Seating,seating,Daybeds,daybeds,"Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Thank you so much. I spoke with my client this morning and I am afraid it is no longer of interest","Mid Century | Modern",,0,0,0,1,inquire,,1,1743669572,1743669572,36673,1,Approved,189.159.121.162,0,0,1,-OThwDzU5OaR_4OIqUm7,36673,1,21473,info@jaspermaison.com
+159230,2397,571464,1750969632,supersuite.plus,3,"Ernst Palme Palwa Large Illuminated Flower Wall Mirror, Brass &amp;amp; Crystals, 1970s","  Palwa",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,supersuite.plus,,hello@supersuite.plus,"Hello Kerol,
+If I remember correctly, there are holes in the backplate. And the mirror should be hung or screwed on using those holes. I believe it should be fairly easy to do — the mirror is made of several parts, and first the back panel is mounted, then the frame with the mirror glass is attached.
+I really hope I could be of help.
+Best regards,
+Alexander","Mid Century | Modern"," ",0,0,0,1,inquire,,1,1743065031,1743065031,55562,1,Approved,77.119.198.5,0,0,1,-OThv3C6Xe8W1eBmxAND,55562,1,21471,kerol@kembleinteriors.com
+159229,893,562521,1750969614,"Wick Antiques LTD",2,"A Regency rosewood six drawer library table by Gillows","  Gillows of Lancaster & London",Furniture,furniture,Tables,tables,"Center Tables, Side Tables, Other","center-tables | side-tables | other","Katharine Trigg",NULL,ktrigg@markhampton.com,"Could you please provide your best net price for this table? My client loves it, but does not want to spend this much.
+
+Thank you!
+Mandy Chetrit
+Mark Hampton LLC","Regency | Traditional","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1737542704,1737542704,12526,1,Approved,72.227.179.161,0,0,1,-OThuzfjBwbBxCk5vvOs,12526,1,19467,charles@wickantiques.co.uk
+159228,840,121651,1750969111,"Casanova Venetian Glass & Art",3,"Contemporary Venetian Mirror","  Ongaro e Fuga",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Casanova Venetian Glass & Art",239.571.1610,kadavison@comcast.net,"Hello Gloria,
+Thanks for your question.  This mirror is made upon order at the Island of Murano, Italy.  It will take 4-6 weeks to be created and shipped to your address.  It is hand made using the finest glass of Murano and each piece is carefully crafted.  I can only give you an approximate price, since there is some uncertainty of how much the tariff will be.  I usually offer this piece for $9,900 and can even do a little better than that to the trade, but I will have to nail down an exact cost to be sure.  Let me know if that fits your budget and if it does, I will give you an absolute price.  By the way, it's a nice size: 49" x 30".  Thanks again,
+Keith Davison, Casanova","Contemporary | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,1,1532362632,1749112510,18740,1,Approved,69.254.57.71,0,0,1,-OTht3sjtmOO3FaiG__B,18740,1,54116,gestone2@me.com
+159227,2397,571464,1750969050,supersuite.plus,3,"Ernst Palme Palwa Large Illuminated Flower Wall Mirror, Brass &amp;amp; Crystals, 1970s","  Palwa",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Kerol Decristo",NULL,kerol@kembleinteriors.com," Hello, i hope this message finds you well. We purchased this mirror from you and have learned there is not hardware on the backside to hang it. Please advise the best way to install/hang the mirror on a wall. Thanks in advance for your help. 
+Best,
+Kerol 
+Kemble Interiors, Inc. ","Mid Century | Modern"," ",0,0,0,1,inquire,,0,1743065031,1743065031,21471,1,Approved,173.162.123.193,0,0,1,-OThsq4Rh1yp2XQTu3D4,21471,1,55562,hello@supersuite.plus
+159226,623,98678,1750968394,"Naga Antiques",3,"Pair of Chinese Lacquer Etageres",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Shelves,shelves,"Naga Antiques",518.828.8585,thegallery@nagaantiques.com,"Ok, I’ve requested a delivery quote from 3 different companies, let’s see what they come back with. If you have a company you have used and liked, please let us know. ",Asian,,0,1,5400,1,make-offer,,1,1517244866,1722327457,15320,1,Approved,64.246.150.163,0,0,1,-OThqLfsos1GNXMnmubM,15320,1,39504,ann@oakgroverestoration.com
+159225,766,106496,1750966962,"Stanislas Reboul",3,"Contemporary Brass Mirror 3 Circle, Italy",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Stanislas Reboul",0033670583780,reboulstanislas@gmail.com,"Hi,
+
+Thanks for your request, first of all its an old listing, we have to check with the workshop if we can produce more of those mirror.
+
+The dimensions are custom, what is the measurements you need ?
+
+Best,
+Stanislas","Contemporary | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,1,1522685844,1747908615,17759,1,Approved,92.184.97.197,0,0,1,-OThksm5lKmuKTK8oLN3,17759,1,54116,gestone2@me.com
+159224,695,150225,1750966665,"NYC Modern",3,"RARE ART DECO DISC AND STAR LAMPS AFTER JEAN MICHEL FRANK","Jean-Michel  Frank",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Alan Tanksley, Inc.",212.481.8454,atanksley@alantanksley.com,"Not at this time. Thank you!","Art Deco | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1546894162,1546894162,15055,1,Approved,208.80.36.98,0,0,1,-OThjkgUAYEH4x-dTXqX,15055,1,16793,NYCModern1@gmail.com
+159223,716,551383,1750965613,BAC,3,"Swedish Art Deco Mirror",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Gloria E. Stone",NULL,gestone2@me.com," I would like to request the price for this listing.","Art Deco | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1730896625,1747299821,54116,0,Approved,98.148.246.34,0,0,1,-OThfjMuJX_p5uDNDLRZ,54116,1,17147,gallery@gallerybac.com
+159222,766,106496,1750965510,"Stanislas Reboul",3,"Contemporary Brass Mirror 3 Circle, Italy",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Gloria E. Stone",NULL,gestone2@me.com," I would like to request dimensions for this listing.","Contemporary | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,0,1522685844,1747908615,54116,0,Approved,98.148.246.34,0,0,1,-OThfLNR7tF5j6m95As6,54116,1,17759,reboulstanislas@gmail.com
+159221,582,577058,1750964819,"L&#039;Art De Vivre",3,"Angelo Lelii for Arredoluce: Rare and Exceptional Chandelier, Italy 1950&amp;#039;s","Angelo  Lelli (Lelii)",Furniture,furniture,Lighting,lighting,"Chandeliers and Pendants",chandeliers-and-pendants,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.","Collectible Design | Mid Century | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,new,0,1749118006,1749708088,24355,1,Approved,172.93.13.214,0,0,1,-OThcheAdgTIE220DYrr,24355,1,14277,cfuller174@aol.com
+159220,870,586895,1750964685,"The Gallery at 200 Lex ",3,"Console by Marzio Cecchi","Marzio  Cecchi",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"The Gallery at 200 Lex ",646.293.6633,thegallery@nydc.com,"Hi Alana,
+I will send you a tear sheet on this amazing table.  
+Best,
+Larry Weller
+larry@nydc.com","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1747914600,1747921104,19254,1,Approved,216.187.41.194,0,0,1,-OThcBnSkg8B1VAT655l,19254,1,20921,alanahat1@aol.com
+159219,840,121651,1750964600,"Casanova Venetian Glass & Art",3,"Contemporary Venetian Mirror","  Ongaro e Fuga",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Gloria E. Stone",NULL,gestone2@me.com," I would like to request the price for this listing.","Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1532362632,1749112510,54116,0,Approved,98.148.246.34,0,0,1,-OThbs6pV7qFYGgQGmAT,54116,1,18740,kadavison@comcast.net
+159218,840,121651,1750964594,"Casanova Venetian Glass & Art",3,"Contemporary Venetian Mirror","  Ongaro e Fuga",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Gloria E. Stone",NULL,gestone2@me.com," I would like to request the price for this listing.","Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1532362632,1749112510,54116,0,Approved,98.148.246.34,0,0,1,-OThbrKHd6R1no1HNCRv,54116,1,18740,kadavison@comcast.net
+159217,1669,498497,1750963115,"Off-Piste Fine Arts",3,"Bloom #1","Sage  Barnes","Fine Art",fine-art,"Mixed Media",mixed-media,Abstract,abstract,"Amy Chrystal",3362094452,amychrystal5@gmail.com," I would like to request the price for this listing.",Contemporary,"I would like to request the price for this listing.",0,0,0,0,inquire,,0,1712651353,1712651353,0,0,Approved,71.150.215.108,0,0,1,-OThXCNOk2nG-Cm6PHTw,Anonym685d93a9e2ebf,0,28898,info@offpistefinearts.com
+159216,583,57879,1750962926,"Adesso ",3,"Set of Ten 1960s Brazilian Caviuna Dining Chairs by L&amp;#039;Atelier","  L'Atelier San Paulo",Furniture,furniture,Seating,seating,"Dining Chairs, Side Chairs","dining-chairs | side-chairs","Vicki Osherow",NULL,vosherow@gmail.com,"Have these been reupholstered or is it the original fabric?","Brazilian Modern | Mid Century | Modern","I would like to request more details about the condition of this listing.  ",0,0,0,0,inquire,,0,1573560258,1740017796,13445,0,Approved,70.113.43.72,0,0,1,-OThWUHh_XbNmNyxptvB,13445,1,14282,adesso@adessoimports.com
+159215,623,98678,1750962346,"Naga Antiques",3,"Pair of Chinese Lacquer Etageres",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Shelves,shelves,"Ann Handler",NULL,ann@oakgroverestoration.com,"SHIPPING ADDRESS:
+OAK GROVE RESTORATION COMPANY
+427 N. SAINT ASAPH STREET
+ALEXANDRIA, VA 22314
+(240) 381-9073",Asian,,0,1,5400,1,make-offer,,1,1517244866,1722327457,39504,1,Approved,73.134.83.116,0,0,1,-OThUGjOoHCHfj2zf85M,39504,1,15320,thegallery@nagaantiques.com
+159214,870,586895,1750961821,"The Gallery at 200 Lex ",3,"Console by Marzio Cecchi","Marzio  Cecchi",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"Alana Hatfield",NULL,alanahat1@aol.com," I would like to request the price for this listing. What is this table made of, and can I use it as a coffee table?","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1747914600,1747921104,20921,0,Approved,98.254.107.254,0,0,1,-OThSGax6vkyWbDk5Sht,20921,1,19254,thegallery@nydc.com
+159213,623,98678,1750961800,"Naga Antiques",3,"Pair of Chinese Lacquer Etageres",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Shelves,shelves,"Naga Antiques",518.828.8585,thegallery@nagaantiques.com,"Hello Ann- sorry for the delay in getting back to you.  I wanted to think it over with my partner as it is a bit of a low offer but after discussion we will accept.  As for the shipping cost that depends, where are you shipping them to?
+Maggie 
+Naga Antiques",Asian,,0,1,5400,1,make-offer,,1,1517244866,1722327457,15320,1,Approved,38.248.90.73,0,0,1,-OThSBUNwauJSOirRvCi,15320,1,39504,ann@oakgroverestoration.com
+159212,870,593830,1750961779,"The Gallery at 200 Lex ",3,"Pair of Armchairs by Renzo Zavanella","Renzo  Zavanella",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs, Wingback Chairs","armchairs | lounge-chairs | wingback","The Gallery at 200 Lex ",646.293.6633,thegallery@nydc.com,"Hi Alana,
+Thank you for reaching out to The Gallery.  I will be emailing you directly.
+Best regards,
+Larry Weller
+larry@nydc.com
+415-531-1425 Cell",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,new,1,1750324626,1750831206,19254,1,Approved,216.187.41.194,0,0,1,-OThS6L25OOVj6YjOMhv,19254,1,20921,alanahat1@aol.com
+159211,870,593830,1750961289,"The Gallery at 200 Lex ",3,"Pair of Armchairs by Renzo Zavanella","Renzo  Zavanella",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs, Wingback Chairs","armchairs | lounge-chairs | wingback","Alana Hatfield",NULL,alanahat1@aol.com," I would like to request the price for this listing. Also  is the fabric on these chairs?",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,new,0,1750324626,1750831206,20921,0,Approved,98.254.107.254,0,0,1,-OThQEg8nbLgt9zUxFvj,20921,1,19254,thegallery@nydc.com
+159210,2367,539594,1750960930,"Modern Masters Tapestries",3,"Katsura – Harmonie noire et verte","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Donald Malzahn",NULL,malzahn.don@gmail.com,"Purchase for my home.",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,,1,1726565017,1744271607,22137,0,Approved,67.184.173.251,0,0,1,-OThOsetLzjxkk6XZuQy,22137,1,53741,info@mmtapestries.com
+159209,2367,570756,1750959935,"Modern Masters Tapestries",3,"Paysape de Toscane","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,"Hi Kelsey. Sorry for not clarifying! All the prices I gave you are the trader prices.",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1743062714,1743652888,53741,1,Approved,108.41.57.244,0,0,1,-OThL4CR3V0J1s4BBu2m,53741,1,50344,KELSEY@KELLYBEHUN.COM
+159208,1090,386424,1750959710,"GREENWICH LIVING DESIGN",3,"French 1920s Bronze and Crystal Chandelier with Spear Points",,Furniture,furniture,Lighting,lighting,"Chandeliers and Pendants",chandeliers-and-pendants,"Maria Mase",NULL,mariamase@comcast.net," I would like to request the price for this listing and if you are willing to negotiate as well as the condition of the chandelier (i.e. does it need rewiring, etc.) Also, if you could give me an estimate in regards to shipping and handling. My zip code is 94591, California. I appreciate any assistance you can provide. Thank you.  Maria","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1659583300,1659583300,22631,0,Approved,73.170.190.140,0,0,1,-OThKDI73DVm9zn-DL8D,22631,1,23856,sales@greenwichlivingdesign.com
+159207,2367,539594,1750959668,"Modern Masters Tapestries",3,"Katsura – Harmonie noire et verte","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,"Hi.
+Thank you for your inquiry regarding Katsura – Harmonie noire et verte by Bernard Cathelin.
+To better assist you, may I ask if you're collecting on behalf of yourself or advising for a client, institution, or design project?
+
+Thank you. 
+-Inah Choi-",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,,1,1726565017,1744271607,53741,1,Approved,108.41.57.244,0,0,1,-OThK31G74DMdTUhrQtO,53741,1,22137,malzahn.don@gmail.com
+159206,2367,570756,1750959370,"Modern Masters Tapestries",3,"Paysape de Toscane","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"KELSEY DEFELICE",NULL,KELSEY@KELLYBEHUN.COM,"Thanks, Inah! For all of these that you sent through, is that list or net trade? Thank you again! ",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1743062714,1743652888,50344,1,Approved,74.89.10.43,0,0,1,-OThIvAvnQBvjRl97K_f,50344,1,53741,info@mmtapestries.com
+159205,2367,570756,1750958755,"Modern Masters Tapestries",3,"Paysape de Toscane","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,"Thank you for your inquiry regarding Paysape de Toscane by Bernard Cathelin. The piece is currently listed at $45,000. 
+Please feel free to reach out if you have more questions either here on Incollect or via info@mmtapestries.com. I will be happy to assist you further!
+
+-Inah Choi-
+Modern Master Tapestries",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1743062714,1743652888,53741,1,Approved,108.41.57.244,0,0,1,-OThG_Ds6Lwjbr39xl9J,53741,1,50344,KELSEY@KELLYBEHUN.COM
+159204,2367,591020,1750958664,"Modern Masters Tapestries",3,"Les Palmiers","Alexander  Calder","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,-NaN-,Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,new,1,1749116352,1749309638,53741,1,Approved,108.41.57.244,0,0,1,-OThGDou5CPzDb-1JQMU,53741,1,50344,KELSEY@KELLYBEHUN.COM
+159203,2367,591020,1750958656,"Modern Masters Tapestries",3,"Les Palmiers","Alexander  Calder","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,"Thank you for your inquiry regarding Les Palmiers by Alexander Calder. The piece is currently listed at $75,000.
+
+We also have another Calder tapestry titled La Poire, Le Fromage, et Le Serpent, which you might be interested in exploring alongside Les Palmiers. It is also listed at $75,000. Please find an image attached for your reference.
+
+Feel free to reach out with any questions either here on Incollect or via email at info@mmtapestries.com. I’ll be happy to assist you further!
+
+-Inah Choi-
+Modern Master Tapestries",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,new,1,1749116352,1749309638,53741,1,Approved,108.41.57.244,0,0,1,-OThGByFDbvbjDMKnDMb,53741,1,50344,KELSEY@KELLYBEHUN.COM
+159202,2367,539594,1750958432,"Modern Masters Tapestries",3,"Katsura – Harmonie noire et verte","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Donald Malzahn",NULL,malzahn.don@gmail.com," I would like to request the price for this listing.",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,,0,1726565017,1744271607,22137,0,Approved,67.184.173.251,0,0,1,-OThFLHKYCnTgMwkwvcA,22137,1,53741,info@mmtapestries.com
+159201,2367,570738,1750958206,"Modern Masters Tapestries",3,"Figure en gloire n°1","Albert  Gleizes","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Modern Masters Tapestries",228.343.4620,info@mmtapestries.com,"Thank you for you inquiry regarding Figure en Gloire no.1 by Albert Gleizes. The piece is currently listed at $28,000. 
+Please feel free to reach out if you have more questions either here on Incorrect or via info@mmtapestries.com. I will be happy to assist you further!
+-Inah Choi-
+Modern Master Tapestries",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1743063572,1743063572,53741,1,Approved,108.41.57.244,0,0,1,-OThEUY9-TWkjgxZyi8M,53741,1,50344,KELSEY@KELLYBEHUN.COM
+159200,607,423849,1750954118,"Goldwood by Boris",3,"Balinese Painting - 1980&amp;#039;s",,"Decorative Arts",decorative-arts,"Wall Art",wall-art,Paintings,paintings,"Janet Bell",NULL,janetbellinc@gmail.com," Hello is this on a frame or otherwise?
+ Ty, Janet ","Asian | Religious"," ",0,0,0,0,inquire,,0,1674304966,1674304966,52968,0,Approved,70.180.27.200,0,0,1,-OTgztWjMtLjbAvU20h2,52968,1,14795,info@goldwoodbyboris.com
+159199,1554,585043,1750952712,PROSPR,3,"Pair of Art Deco Style Antiqued Mirrored Nightstand",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Nightstands,night-stands,"Janet Bell",NULL,janetbellinc@gmail.com,"Hello friends just checking in on this shipping date please!
+Ty, 
+Janet","Art Deco | Modern"," ",0,0,0,1,inquire,,1,1747303599,1747303599,52968,0,Approved,70.180.27.200,0,0,1,-OTguX61zXdq7ttg3-17,52968,1,27993,info@prosprco.com
+159198,2367,570756,1750951616,"Modern Masters Tapestries",3,"Paysape de Toscane","Bernard  Cathelin","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"KELSEY DEFELICE",NULL,KELSEY@KELLYBEHUN.COM," I would like to request the trade price for this listing.",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1743062714,1743652888,50344,1,Approved,74.89.10.43,0,0,1,-OTgqLAhhFmNYDbk9kOz,50344,1,53741,info@mmtapestries.com
+159197,2367,591020,1750951603,"Modern Masters Tapestries",3,"Les Palmiers","Alexander  Calder","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"KELSEY DEFELICE",NULL,KELSEY@KELLYBEHUN.COM," I would like to request the trade price for this listing.",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,new,0,1749116352,1749309638,50344,1,Approved,74.89.10.43,0,0,1,-OTgqHwIFgmX3EY-pwhP,50344,1,53741,info@mmtapestries.com
+159196,2367,570738,1750951592,"Modern Masters Tapestries",3,"Figure en gloire n°1","Albert  Gleizes","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"KELSEY DEFELICE",NULL,KELSEY@KELLYBEHUN.COM," I would like to request the trade price for this listing.",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1743063572,1743063572,50344,1,Approved,74.89.10.43,0,0,1,-OTgqFNKhIG1SLuVRZxK,50344,1,53741,info@mmtapestries.com
+159195,1553,583596,1750951346,"2220 Antiques",2,"A pair of French Louis XV painted open armchairs, 18th C.",,Furniture,furniture,Seating,seating,Armchairs,armchairs,"Allison Nassim",NULL,allison@markhampton.com," I would like to request the trade price, lead time, shipping cost and shipping time for this listing.","Louis XV | Traditional","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1746695310,1746695310,56366,1,Approved,72.227.179.161,0,0,1,-OTgpJu-PF3t3vAJfT-6,56366,1,27991,info@showrooms2220.com
+159194,870,590993,1750945681,"The Gallery at 200 Lex ",3,"Rare Rosso Marble Side or Console Table by Angelo Mangiarotti","Angelo  Mangiarotti",Furniture,furniture,Tables,tables,"Console & Pier Tables, Side Tables","console-pier-tables | side-tables","The Gallery at 200 Lex ",646.293.6633,thegallery@nydc.com,"Hi Rebekah,
+Thank you for your interest.
+The net price is $10800.
+I have placed this on HOLD for you and will request a shipping quote on your behalf.
+Please email the shipping address to stephanie@nydc.com.
+Kind regards,
+Stephanie","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1749118517,1749118517,19254,1,Approved,216.187.41.194,0,0,1,-OTgUhCEYLartLlbnVsG,19254,1,15486,rebekahjacobson@gmail.com
+159193,465,422308,1750945464,"Mid Century Morris",3,"Harvey Probber sectional sofa","Harvey  Probber",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Mid Century Morris",804.647.1032,sales@midcenturymorris.com," Couch measures 89 inch by 117 inch.  It forms an "L" in two pieces.  Price is $8500.","Collectible Design | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1673534130,1673534130,11340,1,Approved,108.4.9.113,0,0,1,-OTgTsI5eOvGHW0_-UpT,11340,1,56170,eringray37@gmail.com
+159192,465,422308,1750945343,"Mid Century Morris",3,"Harvey Probber sectional sofa","Harvey  Probber",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Mid Century Morris",804.647.1032,sales@midcenturymorris.com,"I also have another sofa of same period in Jack Lenar Larsen and colors are purple and navy. ","Collectible Design | Mid Century | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,1,1673534130,1673534130,11340,1,Approved,108.4.9.113,0,0,1,-OTgTPiQgx4pXUbFz3F1,11340,1,41948,susan@markhaddawy.com
+159191,465,422308,1750945247,"Mid Century Morris",3,"Harvey Probber sectional sofa","Harvey  Probber",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Mid Century Morris",804.647.1032,sales@midcenturymorris.com,"Hi dimensions are as follows 89 inch length and second piece 117 inches length   2 pieces make the "L"","Collectible Design | Mid Century | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,1,1673534130,1673534130,11340,1,Approved,108.4.9.113,0,0,1,-OTgT2h_y42tMcY1GQA_,11340,1,41948,susan@markhaddawy.com
+159190,516,516234,1750943655,"Eric Appel LLC",3,"ALVAR AALTO TEA TROLLEY","Alvar  Aalto",Furniture,furniture,Tables,tables,"Serving Tables & Bar Carts",serving-tables,"Eric Appel LLC",212.605.9960,gallery@ericappel.com,"Good morning. 
+ALVAR AALTO TEA TROLLEY
+List          $15,000
+Net         $12,00
+Please let us know if you have any questions 
+Kind regards, Lori",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1715074820,1748508196,12968,1,Approved,108.145.161.102,0,0,1,-OTgMyrQUhPFdAv6-Blk,12968,1,15486,rebekahjacobson@gmail.com
+159189,1714,576846,1750940259,"Living in Style Gallery",3,"Mid-Century Modern Game Table",,Furniture,furniture,Tables,tables,"Coffee Tables, Game Tables, Other","coffee-tables | game-tables | other","Living in Style Gallery",447715059226,info@livinginstylegallery.com,"Hello and thank you for your e mail! 
+We can offer a trade price of 1800usd and will come back to you with shipping quote,hopefully tomorrow…
+Best,Beata","Mid Century | Modern | Other","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1743666835,1743666835,29387,1,Approved,213.122.100.132,0,0,1,-OTgA13EJ2HyRbSUU718,29387,1,15486,rebekahjacobson@gmail.com
+159188,2197,559608,1750925489,"Leila Heller Gallery",3,"Untitled, Unknown","FARIDEH  LASHAI","Fine Art",fine-art,"Works on Paper",works-on-paper,"Still Life",still-life,"Lois Freeborn",NULL,loisfreeborn@yahoo.com," I would like to request the price for this listing.",Contemporary,"I would like to request the price for this listing.",0,0,0,0,inquire,,0,1735635456,1735635456,16087,0,Approved,24.18.163.245,0,0,1,-OTfHgHrpXQUiRQ_uG-4,16087,1,42584,ella@leilaheller.com
+159187,577,356900,1750923529,"L'Original Gallery",3,"1950&amp;#039;s Stitched leather armchairs by Jacques Adnet","Jacques  Adnet",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","L'Original Gallery",33.060.965.4260,regis@regisroyant.com,"Please ask to : order@convelio.com
+You can chose your options and everything needed.
+Best regards,","Art Deco | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1647507181,1647507181,14194,1,Approved,91.172.185.175,0,0,1,-OTfACZXj6XYT5PmNpBb,14194,1,32469,clive.ng@gmail.com
+159186,1010,576993,1750919902,"Jasper Maison",3,"Guillerme and Chambron, Rare Daybed for Votre Maison&amp;quot;, 1960","Guillerme et Chambron",Furniture,furniture,Seating,seating,Daybeds,daybeds,"Jasper Maison",33630610329,info@jaspermaison.com,"Hi Tacho,
+
+I have placed this piece on hold for you on every platforms (1stdibs, InCollect etc)
+
+Could you please confirm you received our offer well and come back to me with an update, thank you.
+
+Let me know for how long you need it on hold until client's presentation.
+
+Best regards,
+Steve","Mid Century | Modern",,0,0,0,1,inquire,,1,1743669572,1743669572,21473,1,Approved,88.122.194.56,0,0,1,-OTexMxUSb4WEZZwD4hi,21473,1,36673,tacho.elizondo@gmail.com
+159185,766,570710,1750917759,"Stanislas Reboul",3,"Pair of Lamps LT230 Murano Glass by Carlo Nason for Mazzega, Italy, 1970s","Carlo  Nason",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Stanislas Reboul",0033670583780,reboulstanislas@gmail.com,"Hello Aaron,
+
+Shipping air freight, door to door, wood crate for LA CA90023 = $US 910
+
+We place on hold
+
+Best,
+Stanislas","Collectible Design | Mid Century | Modern"," ",1,0,0,1,inquire,,1,1741250799,1741250799,17759,1,Approved,90.79.221.17,0,0,1,-OTepB3Soyn6fD6_2tde,17759,1,23118,alisa@madelinestuart.com
+159184,582,565283,1750917240,"L&#039;Art De Vivre",3,"Paolo Buffa Handsome Bar Cabinet, Italy 1950&amp;#039;s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Dry Bars",dry-bars,"Rebekah Jacobson",NULL,rebekahjacobson@gmail.com," I would like to request the trade price for this listing and shipping to Los Angeles. ","Collectible Design | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1740019515,1740056965,15486,1,Approved,24.24.181.167,0,0,1,-OTenCO-yCXGOlobv6Hw,15486,1,14277,cfuller174@aol.com
+159183,516,516234,1750916835,"Eric Appel LLC",3,"ALVAR AALTO TEA TROLLEY","Alvar  Aalto",Furniture,furniture,Tables,tables,"Serving Tables & Bar Carts",serving-tables,"Rebekah Jacobson",NULL,rebekahjacobson@gmail.com," I would like to request the trade price for this listing.",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1715074820,1748508196,15486,1,Approved,24.24.181.167,0,0,1,-OTeleZrqhgrMde0GfY2,15486,1,12968,gallery@ericappel.com
+159182,545,60901,1750916803,TFTM,3,"Early Excellent Original Birch Alvar Aalto Bar Cart","Alvar  Aalto",Furniture,furniture,Tables,tables,"Serving Tables & Bar Carts, Other","serving-tables | other","Rebekah Jacobson",NULL,rebekahjacobson@gmail.com," I would like to request the trade price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,new,0,1491230853,1749116545,15486,1,Approved,24.24.181.167,0,0,1,-OTelX_TS0-iYuNRxO9I,15486,1,13785,contact@tftmmelrose.com
+159181,870,590993,1750916595,"The Gallery at 200 Lex ",3,"Rare Rosso Marble Side or Console Table by Angelo Mangiarotti","Angelo  Mangiarotti",Furniture,furniture,Tables,tables,"Console & Pier Tables, Side Tables","console-pier-tables | side-tables","Rebekah Jacobson",NULL,rebekahjacobson@gmail.com," I would like to request the trade price for this listing plus shipping to Los Angeles.","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,new,0,1749118517,1749118517,15486,1,Approved,24.24.181.167,0,0,1,-OTekjzp6VDqWrPYiqTM,15486,1,19254,thegallery@nydc.com
+159180,1714,576846,1750916487,"Living in Style Gallery",3,"Mid-Century Modern Game Table",,Furniture,furniture,Tables,tables,"Coffee Tables, Game Tables, Other","coffee-tables | game-tables | other","Rebekah Jacobson",NULL,rebekahjacobson@gmail.com," I would like to request the trade price for this listing plus shipping to Beverly Hills, CA. 90210","Mid Century | Modern | Other","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1743666835,1743666835,15486,1,Approved,24.24.181.167,0,0,1,-OTekKWfeVjxHDGByPwE,15486,1,29387,info@livinginstylegallery.com
+159179,717,497319,1750916406,ILIAD,3,"A French Modernist inspired Game Table by ILIAD Design","  ILIAD DESIGN",Furniture,furniture,Tables,tables,"Game Tables",game-tables,"Rebekah Jacobson",NULL,rebekahjacobson@gmail.com," I would like to request the trade price for this listing.","Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1708339915,1708339915,15486,1,Approved,24.24.181.167,0,0,1,-OTek1KemDKfFkHacbE2,15486,1,17153,info@iliadny.com
+159178,1625,271312,1750902140,"Galerie Carole Decombe - Paris",3,"Small Black Centerpiece","Helle  Damkjaer","Decorative Arts",decorative-arts,Tablewares,tablewares,"Bowls & Porringers, Centerpieces","bowls-porringers | centerpieces","Galerie Carole Decombe - Paris",33140200012,carole@decombe.com,"Dear Caroline,
+
+Thank you for your request.
+The trade price for the small black centerpiece by Helle Damkjaer is 3 600€.
+
+Please let us know if you need more information.
+
+Kind regards,
+Lorraine","Collectible Design | Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1608737899,1692699553,28415,1,Approved,72.134.82.59,0,0,1,-OTdtbPTsBrSc3Rb0g6_,28415,1,46525,CK@CAROLINEKORNREICH.COM
+159177,1625,271312,1750901025,"Galerie Carole Decombe - Paris",3,"Small Black Centerpiece","Helle  Damkjaer","Decorative Arts",decorative-arts,Tablewares,tablewares,"Bowls & Porringers, Centerpieces","bowls-porringers | centerpieces","CAROLINE KORNREICH",NULL,CK@CAROLINEKORNREICH.COM," I would like to request the trade price for this listing - project - Four Seasons Hotel Taipei designed by Yabu Pushelberg. ","Collectible Design | Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1608737899,1692699553,46525,1,Approved,69.201.179.144,0,0,1,-OTdpLXiLaRvm_LqSn2P,46525,1,28415,carole@decombe.com
+159176,510,528182,1750900964,Donzella,3,"Alluvium Sculptural Vase #3 by Riley Walzer","Riley  Walzer","Decorative Arts",decorative-arts,Objects,decorative-objects,"Sculpture, Vases, Jars, & Urns","sculpture | vases-jars-urns","CAROLINE KORNREICH",NULL,CK@CAROLINEKORNREICH.COM," I would like to request the trade price for this listing.","Art Pottery | Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1723534001,1723534001,46525,1,Approved,69.201.179.144,0,0,1,-OTdp7Es1tSNMRUBBUXo,46525,1,12783,info@donzella.com
+159175,766,570710,1750899939,"Stanislas Reboul",3,"Pair of Lamps LT230 Murano Glass by Carlo Nason for Mazzega, Italy, 1970s","Carlo  Nason",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Alisa Milhollan",NULL,alisa@madelinestuart.com," Hello,
+
+May we please place a hold this pair of lamps while we review with our client? Also, can you please provide an estimate for shipping these to the address below:
+
+CR Creative Services
+1400 Calzona Street
+Los Angeles, CA 90023
+
+Thank you!
+Aaron","Collectible Design | Mid Century | Modern"," ",1,0,0,1,inquire,,0,1741250799,1741250799,23118,1,Approved,72.134.32.178,0,0,1,-OTdlD5pTgctbt1TNQKD,23118,1,17759,reboulstanislas@gmail.com
+159174,582,507174,1750896360,"L&#039;Art De Vivre",3,"Pair of Two Branch Bronze Neo Classical Sconces, 1950&amp;#039;s",,Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"L&#039;Art De Vivre",212.734.3510,cfuller174@aol.com,"Dear Ms. Silverman,
+
+Thank you for your interest in this elegant pair of bronze sconces. They are on display at our gallery and are priced at 
+$ 18,500 the pair. We have two pair available and they are sold and priced by the pair.
+Please let us know if we can provide you with anything further.
+
+Best regards,
+
+Patricia Fuller
+L'ART DE VIVRE
+978 Lexington Avenue  (71/72)
+New York, N.Y. 10021
+212 734 3510","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1712651149,1746091360,14277,1,Approved,184.153.36.128,0,0,1,-OTdYZSIgpTAUfOszWDD,14277,1,Anonym685c79e312fa3,Laurie.karen@gmail.com
+159173,524,548771,1750894870,"Danish Modern LA",3,"Kipp Stewart Writing Desk for Glenn of California","  Kipp Stewart & Stewart McDougall",Furniture,furniture,Tables,tables,"Desks & Writing Tables",desks-secretaries,"Danish Modern LA",323.893.5950,danishmodernla@gmail.com,"Hi Daniel, 
+
+Thank you for your interest in Danish Modern LA!
+
+We normally offer a 2-day hold period for our pieces due to high demand and availability on other online platforms we've posted. However, I'm happy to make an exception and hold it for you until July 1st.
+
+I also have great news— when you subscribe to our newsletter on our website, you receive a 15% lifetime discount coupon. For any piece on our website. 
+
+Additionally, we have been dedicated to preserving Mid-Century Modern design for 15 years and are passionate about Kipp Stewart's' design philosophy. Our skilled craftsmen meticulously restore vintage designs to preserve their physical and historical essence. We are committed to delivering the highest standards of quality and craftsmanship, ensuring that our products will bring you joy for years to come. All of our work is completed in-house at our Los Angeles studio.
+
+We are confident that you will love the result of our restoration efforts, which are carried out with passion and care.
+
+Looking forward to your thoughts?
+
+Attentively,
+
+Jessy C. Tzarax
+Co-Owner
+
+5448 E. Olympic Blvd
+Los Angeles, CA 90022
+
+DANISH    MODERN    L.A.
+","Mid Century | Modern"," ",1,0,0,1,inquire,,1,1730285613,1730285613,13288,1,Approved,45.188.0.101,0,0,1,-OTdSsCigTWLbkerYZEk,13288,1,45635,daniel@dkda.com
+159172,1300,335315,1750894264,DUMONTEIL,3,"Bird III | Keping WANG","Keping  Wang","Fine Art",fine-art,Sculpture,sculpture,Animals,animals,"Lois Freeborn",NULL,loisfreeborn@yahoo.com,"This piece is beautiful.  Would you please quote a price for me?  If it matters, I'm a private individual living in Washington State, USA.  Thank you, Lois Freeborn","Asian Art | Contemporary"," ",0,0,0,1,inquire,,0,1637792971,1746087912,16087,0,Approved,24.18.163.245,0,0,1,-OTdQZVzmdBfG1rf7C6j,16087,1,26213,paris@dumonteil.com
+159171,465,422308,1750893136,"Mid Century Morris",3,"Harvey Probber sectional sofa","Harvey  Probber",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Susan Stewart Sidel",NULL,susan@markhaddawy.com," I would like to request dimensions for this listing.
+
+Thank you","Collectible Design | Mid Century | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,0,1673534130,1673534130,41948,1,Approved,76.91.152.22,0,0,1,-OTdMFRurHQtvl41OXLE,41948,1,11340,sales@midcenturymorris.com
+159170,2317,534765,1750892836,"Kristan Hauge Japanese Art",2,"Korean grapevine painting. 17th century.",,"Fine Art",fine-art,Paintings,paintings,Landscape,landscape,"Lois Freeborn",NULL,loisfreeborn@yahoo.com," I'm interested in this Korean painting.  Would you please let me know more about the edges -- how they are made, what covers the, etc.  Would the item look best to have it framed or is it intended to be ready to hang as is.  Maybe a couple of close up photos with you explanation would help.  Thanks.","Asian Art"," ",0,0,0,0,inquire,new,0,1723534060,1749708373,16087,0,Approved,24.18.163.245,0,0,1,-OTdL6NJY4XI4Gh8jgsP,16087,1,52156,khauge@mx.bw.dream.jp
+159169,548,195956,1750892634,"De Angelis",3,"Gordon Martz Ceramic Table Lamp","Gordon  Martz",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"De Angelis",415.861.9800,deangelissf@gmail.com,"Hi Elizabeth, 
+Yes it is the original shade in good condition. I can pack it to ship if you’re interested. 
+Best,
+Michael De Angelis ","Mid Century | Modern | Scandinavian Modern"," ",1,0,0,1,inquire,,1,1577192178,1692699464,13807,1,Approved,104.28.103.190,0,0,1,-OTdKKx-dpFUnHb11h-h,13807,1,26333,ldgilbert24@gmail.com
+159168,1502,270544,1750892508,"Thomas Gallery Ltd.",2,"Italian Mid-Century Modern Neoclassical Brass Console by Guglielmo Ulrich, 1948","Guglielmo  Ulrich",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"Phebe Williams",NULL,phebe@heatherhilliard.com," Can you please also tell me the net pricing?","Neoclassical | Revival"," ",0,0,0,1,inquire,,0,1608737538,1669299299,18189,1,Approved,50.145.65.142,0,0,1,-OTdJrD8VK1f_zz2Grnb,18189,1,27633,thomasgalleryltd@gmail.com
+159167,1502,270544,1750892490,"Thomas Gallery Ltd.",2,"Italian Mid-Century Modern Neoclassical Brass Console by Guglielmo Ulrich, 1948","Guglielmo  Ulrich",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"Phebe Williams",NULL,phebe@heatherhilliard.com," Hi there
+We would like to present this to our client. Are you able to place on hold for us?
+
+Thanks,
+Lindsay","Neoclassical | Revival"," ",1,0,0,1,inquire,,0,1608737538,1669299299,18189,1,Approved,50.145.65.142,0,0,1,-OTdJnSDTXjG_ErHpzjn,18189,1,27633,thomasgalleryltd@gmail.com
+159166,582,507174,1750890980,"L&#039;Art De Vivre",3,"Pair of Two Branch Bronze Neo Classical Sconces, 1950&amp;#039;s",,Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"laurie k silverman",9178855834,Laurie.karen@gmail.com," I would like to request the price for this listing.","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1712651149,1746091360,0,0,Approved,173.56.90.23,0,0,1,-OTdE1wulzH7m0DcI2sE,Anonym685c79e312fa3,0,14277,cfuller174@aol.com
+159165,567,54083,1750889820,"Van Den Akker Antiques & Mid Century Modern – Studio Van den Akker Custom",3,"A Modernist Vanity in Black Lacquer",,Furniture,furniture,Tables,tables,"Dressing Tables & Vanities, Desks & Writing Tables","dressing-tables-lowboys | desks-secretaries","Ellie Blackman",NULL,ellie@studioshamshiri.com,"Can you please hold this until Monday? Thank you","Mid Century | Modern","I would like to request the price for this listing.",1,0,0,0,inquire,,0,1488816738,1620838657,54459,0,Approved,98.152.114.66,0,0,1,-OTd9bfKnDb75I-3FMWr,54459,1,14029,chris@studiovandenakker.com
+159164,548,195956,1750887420,"De Angelis",3,"Gordon Martz Ceramic Table Lamp","Gordon  Martz",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Elizabeth Gilbert",NULL,ldgilbert24@gmail.com," Is the lampshade included with this lamp?","Mid Century | Modern | Scandinavian Modern"," ",1,0,0,1,inquire,,0,1577192178,1692699464,26333,0,Approved,24.184.20.206,0,0,1,-OTd0Sr4_5OhK_-gfmLt,26333,1,13807,deangelissf@gmail.com
+159163,2307,573187,1750880602,"Linea Gallery",3,"Osvaldo Borsani eight beechwood dining chairs, Arredamenti Borsani Varedo, 1940s","Osvaldo  Borsani",Furniture,furniture,Seating,seating,"Dining Chairs",dining-chairs,"Linea Gallery",,midcentury@linea.gallery,"Dear Young Huh,
+Thank you for your interest in our set of eight Osvaldo Borsani chairs.
+I’ve just placed the set on hold for you and your client for the next seven days.
+
+Our best trade price for the set is $28,000 (excluding any applicable import duties or taxes).
+
+Should you need a shipping quote, please feel free to share the destination zip code so I can provide a more accurate estimate of the overall costs.
+
+I remain at your disposal for any further information.
+
+Kind regards,
+Stefano
+Linea Gallery","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1741858492,1742425995,51248,1,Approved,82.0.217.240,0,0,1,-OTcbRhWW9wL0F8ca5pv,51248,1,21207,office@younghuh.com
+159162,2190,463240,1750880345,SimoEng,3,"Early 21st Century Gold-Flowers Murano Glass Flush Mount","  SimoEng",Furniture,furniture,Lighting,lighting,"Flush Mount",flush-mount,"Thomas Warren",NULL,thomas@elidweckdesigns.com,"Hello,
+
+Would it be possible to re-quote this fixture?
+Thank you!","Contemporary | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,1,1692068360,1692068360,54015,1,Approved,96.250.124.94,0,0,1,-OTcaT1vXkIRaAzEXK6a,54015,1,41691,info@simoeng.it
+159161,1053,493533,1750880199,circa20c,3,"Vladimir Kagan Bilboa Sofa in Silk and Leather","Vladimir  Kagan",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Janet Bell",NULL,janetbellinc@gmail.com,"Ty so much! Janet","Art Deco | Mid Century | Modern"," ",0,0,0,1,inquire,,1,1706859784,1706859784,52968,0,Approved,70.180.27.200,0,0,1,-OTc_uV2nx00uZ0b0DRX,52968,1,22367,jean@circa20c.com
+159160,2097,594912,1750879888,"bernard jacobson gallery",3,"Reclining Figure, 1936-37","Henry  Moore","Fine Art",fine-art,Sculpture,sculpture,Figurative,figurative,"Nancy Van Doren",NULL,info@vanguardsupply.company," I would like to request the trade price for this listing.",Modernism,"I would like to request the trade price for this listing.",0,0,0,0,inquire,trade,0,1750321035,1750336644,24973,1,Approved,72.213.182.45,0,0,1,-OTcZisIu5m0NMIVMKU2,24973,1,38357,constance@jacobsongallery.com
+159159,1797,346259,1750878595,"John Lyle Design",3,"Matthew Dresser","  John Lyle Design",Furniture,furniture,"Storage & Case Pieces",case-pieces,Dressers,dressers,"John Lyle Design",646.344.1964,support@johnlyledesign.com,"Hello Jose,
+
+Of course, here is the price as shown:
+
+MATTHEW dresser
+48W x 20D x 34H
+4 drawers with bone pulls, trim and sabots
+jet shagreen
+$22,900 net
+lead time 16-18 weeks
+
+This item is available in other finishes, starting at $13,900 net. It can also be customized to your liking.
+Please let me know if I can be of further assistance!
+
+Heather",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,,1,1643245653,1734526477,30822,1,Approved,107.145.168.111,0,0,1,-OTcUmhWpIYV0KH5Bwd-,30822,1,Anonym685b1020d5b79,jose@robertrionda.com
+159158,2307,573187,1750878361,"Linea Gallery",3,"Osvaldo Borsani eight beechwood dining chairs, Arredamenti Borsani Varedo, 1940s","Osvaldo  Borsani",Furniture,furniture,Seating,seating,"Dining Chairs",dining-chairs,"Young Huh",NULL,office@younghuh.com," I would like to request the trade price for this listing, and request a hold till Monday, June 30th, 2025.","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1741858492,1742425995,21207,1,Approved,71.105.171.44,0,0,1,-OTcTtmLvyojULhsc3ax,21207,1,51248,midcentury@linea.gallery
+159157,1053,493533,1750877953,circa20c,3,"Vladimir Kagan Bilboa Sofa in Silk and Leather","Vladimir  Kagan",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,circa20c,214.704.1787,jean@circa20c.com,"Hi Janet,
+
+We can offer $5865 trade price.
+
+Jean","Art Deco | Mid Century | Modern"," ",0,0,0,1,inquire,,1,1706859784,1706859784,22367,1,Approved,70.119.161.29,0,0,1,-OTcSL986Yov5FDHUipD,22367,1,52968,janetbellinc@gmail.com
+159156,1053,493533,1750877873,circa20c,3,"Vladimir Kagan Bilboa Sofa in Silk and Leather","Vladimir  Kagan",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Janet Bell",NULL,janetbellinc@gmail.com," Can you please offer your best trade pricing? Ty
+Janet","Art Deco | Mid Century | Modern"," ",0,0,0,1,inquire,,0,1706859784,1706859784,52968,0,Approved,70.180.27.200,0,0,1,-OTcS22vjm6pV2SscHL3,52968,1,22367,jean@circa20c.com
+159155,2238,551366,1750874272,Habitat-Gallery,3,"Luigi Tiengo No. 500-13 Sofa in Chocolate Mohair for Cimon Montréal, 1960&amp;#039;s","Luigi  Tiengo",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,Habitat-Gallery,310.927.6266,malenabrush@gmail.com,"Hi Janet,
+
+I just wanted to circle back to see where things landed on your end with the Luigi Tiengo sofa. Totally understand that projects shift and timelines evolve. I just figured I’d check in to see if it’s still under consideration or if you’ve found something that better fits the direction you're heading.
+
+No pressure at all  but if you’re still interested or considering an offer, I’m happy to revisit details, provide any additional info, or answer questions that might help with the decision.
+
+Hope all is well and that your project is coming together beautifully!
+
+~M","Contemporary | Mid Century | Modern"," ",0,0,0,1,inquire,,1,1730899197,1731496024,48562,1,Approved,98.167.66.3,0,0,1,-OTcEIS19G3Mm5yLmrg_,48562,1,52968,janetbellinc@gmail.com
+159154,669,585873,1750874233,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Susan Stewart Sidel",NULL,susan@markhaddawy.com,yes,"Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,41948,1,Approved,76.91.152.22,0,0,1,-OTcE8oK0OHl3Y76wNmp,41948,1,16406,gill@illustris.nyc
+159153,669,585873,1750874212,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,"Ok, I am releasing this Hold then?","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,72.69.132.193,0,0,1,-OTcE3lB4mbOvoMxU0h6,16406,1,41948,susan@markhaddawy.com
+159152,669,585873,1750873674,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Susan Stewart Sidel",NULL,susan@markhaddawy.com,"Ok, that won't work for us.
+I need 2" or less","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,41948,1,Approved,76.91.152.22,0,0,1,-OTcC0O3PVuaA353d1ne,41948,1,16406,gill@illustris.nyc
+159151,577,356900,1750873234,"L'Original Gallery",3,"1950&amp;#039;s Stitched leather armchairs by Jacques Adnet","Jacques  Adnet",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","Clive Ng",NULL,clive.ng@gmail.com,"Thank you 
+would you be able to estimate how much it would be to ship to LA ?
+clive ","Art Deco | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1647507181,1647507181,32469,0,Approved,23.243.148.132,0,0,1,-OTcAL2q8QcHi0GQnCQg,32469,1,14194,regis@regisroyant.com
+159150,743,351235,1750873156,"Glenn Green Galleries",3,"Desert Breeze","Allan Capron Houser","Fine Art",fine-art,Sculpture,sculpture,"Abstract, Figurative, Other","abstract | figurative | other","Glenn Green Galleries",505.820.0008,kerry@glenngreen.com,"Hello Sergio- 
+
+I am circling back with you to see about your interest in this sculpture by Allan Houser. 
+Talk soon
+
+Kerry Green
+Glenn Green Galleries","Contemporary | Other ","I would like to request the price for this listing.",1,0,0,1,inquire,,1,1644481257,1745485011,17477,1,Approved,76.113.88.91,0,0,1,-OTcA2LeRw11KWzeBn1y,17477,1,50079,sergioestevesnyc@gmail.com
+159149,524,548771,1750870974,"Danish Modern LA",3,"Kipp Stewart Writing Desk for Glenn of California","  Kipp Stewart & Stewart McDougall",Furniture,furniture,Tables,tables,"Desks & Writing Tables",desks-secretaries,"Daniel Rosado",NULL,daniel@dkda.com," Hello, Can I please place this desk on hold until July 1st?","Mid Century | Modern"," ",1,0,0,1,inquire,,0,1730285613,1730285613,45635,1,Approved,68.160.219.111,0,0,1,-OTc1iRXSJPjlGaXk4ir,45635,1,13288,danishmodernla@gmail.com
+159148,321,25065,1750869090,"Glen Leroux Antiques, Inc.",3,"Card or Small Dining Table &amp;amp; Four Double X Back Chairs","Tommi  Parzinger",Furniture,furniture,Tables,tables,"Dining Tables, Game Tables","dining-tables | game-tables","Glen Leroux Antiques, Inc.",2032278030,glenaleroux@yahoo.com,"Hi this rare and important set is $26,000 net from $31,000 I am a collector of Parzinger and to fine this table with chairs is a rare find .
+
+Thanks Glen ","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1461618230,1625072681,7005,1,Approved,172.59.13.190,0,0,1,-OTbvXv0gbZveh-XVyC1,7005,1,Anonym685c12514fb88,jose@robertrionda.com
+159147,623,98678,1750865141,"Naga Antiques",3,"Pair of Chinese Lacquer Etageres",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Shelves,shelves,"Ann Handler",NULL,ann@oakgroverestoration.com,"Please let me know the shipping cost. ",Asian,,0,1,5400,1,make-offer,,0,1517244866,1722327457,39504,1,Approved,73.134.83.116,0,0,1,-OTbgT9MpZsjkbbZeNlP,39504,1,15320,thegallery@nagaantiques.com
+159146,321,25065,1750864466,"Glen Leroux Antiques, Inc.",3,"Card or Small Dining Table &amp;amp; Four Double X Back Chairs","Tommi  Parzinger",Furniture,furniture,Tables,tables,"Dining Tables, Game Tables","dining-tables | game-tables","Jose Vilanova",3054381330,jose@robertrionda.com," I would like to request the price for this listing.","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1461618230,1625072681,0,0,Approved,73.244.65.205,0,0,1,-OTbdtOAUW0cK_jmO--R,Anonym685c12514fb88,0,7005,glenaleroux@yahoo.com
+159145,1792,577493,1750864117,"Modern Hill Furniture Warehouse",3,"Olivier Mourgue for Airborne Mid Century Red Ochre Djinn Chaise Longue","Olivier  Mourgue",Furniture,furniture,Seating,seating,"Chaises, Lounge Chairs","chaise-longues | lounge-chairs","Tacho Elizondo",NULL,tacho.elizondo@gmail.com," I would like to request more details about the condition of this listing.  What is this upholstered in? What is the condition of the upholstery?","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",0,0,0,1,inquire,,0,1743668742,1743668742,36673,1,Approved,172.58.111.197,0,0,1,-OTbcZCs3VKcYx9ahf2K,36673,1,30600,sales@modernhillfurniture.com
+159144,669,585873,1750863444,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,-NaN-,"Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,172.56.165.158,0,0,1,-OTb_zisvpr51uLKF0O8,16406,1,41948,susan@markhaddawy.com
+159143,669,585873,1750863430,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,"3.25 inches deep to be precise.
+Attached is the image of the inside and sockets position ","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,172.56.165.158,0,0,1,-OTb_wQvx6F9ZsiwGKLf,16406,1,41948,susan@markhaddawy.com
+159142,2238,546441,1750862539,Habitat-Gallery,3,"De Sede DS600 Dark Chocolate Brown Leather 23 Piece Non-Stop Snake Sofa, 1960&amp;#039;s","  de Sede",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,Habitat-Gallery,310.927.6266,malenabrush@gmail.com,"Hi Tacho,
+
+I’ve placed the sofa on hold for you through the end of the week. I'll circle back on Monday to see if you need an extension.
+
+Thanks again for your interest!
+
+Malena","Contemporary | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,trade,1,1729058260,1729063332,48562,1,Approved,98.167.66.3,0,0,1,-OTbXY01cAu85cx4R_DJ,48562,1,36673,tacho.elizondo@gmail.com
+159141,1621,533265,1750862450,"Domus Aurea",3,"Late 20th Century Pair of Transparent Murano Art Glass with Applications Vases","  Costantini Murano","Decorative Arts",decorative-arts,Objects,decorative-objects,"Vases, Jars, & Urns",vases-jars-urns,"Domus Aurea",39055291699,domusaurea64@gmail.com,"Ciao Aaron,
+
+Here's UPS tracking nr. 1Z11WR856894982225
+Thanks a lot and talk to you soon.
+Warmest,
+Paolo","Art Glass | Modern"," ",1,0,0,1,inquire,,1,1722933448,1722933448,28377,1,Approved,217.198.139.139,0,0,1,-OTbXC6nwKuma9bQZCum,28377,1,31927,aaron@haynesroberts.com
+159140,1621,533265,1750862339,"Domus Aurea",3,"Late 20th Century Pair of Transparent Murano Art Glass with Applications Vases","  Costantini Murano","Decorative Arts",decorative-arts,Objects,decorative-objects,"Vases, Jars, & Urns",vases-jars-urns,"Domus Aurea",39055291699,domusaurea64@gmail.com,-NaN-,"Art Glass | Modern"," ",1,0,0,1,inquire,,1,1722933448,1722933448,28377,1,Approved,217.198.139.139,0,0,1,-OTbWlyIdQqCJc-zM_DF,28377,1,31927,aaron@haynesroberts.com
+159139,577,356900,1750861922,"L'Original Gallery",3,"1950&amp;#039;s Stitched leather armchairs by Jacques Adnet","Jacques  Adnet",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","L'Original Gallery",33.060.965.4260,regis@regisroyant.com,"Hello Clive,
+Our best price is $29000
+Best regards,","Art Deco | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1647507181,1647507181,14194,1,Approved,91.172.185.175,0,0,1,-OTbVBokh91w2DO7akte,14194,1,32469,clive.ng@gmail.com
+159138,656,573634,1750856453,"Conjeaud &amp; Chappey LLC",3,"Pair of French Art Deco Glass and Brass Ceiling or Wall Lights by Jean Perzel","Jean  Perzel",Furniture,furniture,Lighting,lighting,"Flush Mount, Wall Lights and Sconces","flush-mount | wall-lights-and-sconces","Conjeaud &amp; Chappey LLC",917.676.6428,Info@les2c.com,"Hi Nella,
+Net price for this pair of lights is $6,000 as is (not re-wired)
+They are on hold for another client at the moment.
+I'll keep you posted if the become available again.
+Kind regards,
+Herve
+","Art Deco | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1742461469,1742473491,16218,1,Approved,74.65.199.70,0,0,1,-OTbAKeSfFf4H3dGOcfj,16218,1,Anonym685aff7bb59fa,nimbachi@pembrookeandives.com
+159137,2234,504436,1750850262,"Alexander George Fine Antique Furniture",2,"A Rare Chinese Chippendale George III cabinet on stand, circa 1760. England",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Cabinets,cabinets,"Alexander George Fine Antique Furniture",4401367243304,sue.austin@alexandergeorgeantiques.com,"Hi Claire,
+
+You have fabulous taste. As you can see from the images, this cabinet is an exquisite piece with strong provenance.
+
+It has attracted a great deal of interest and is currently on show at London’s most prestigious art and antiques fair, Treasure House. That said, I really enjoy working with the trade and would be happy to offer you a 10% discount, bringing the price down to $43,000.
+
+Very best,
+Mark Pargeter 
+ ","George III | Traditional","I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1711431714,1747908609,48112,1,Approved,85.255.236.16,0,0,1,-OTanhU8sDSnb1xtCi21,48112,1,24355,claire@robertcouturier.com
+159136,750,484367,1750849991,"88 Gallery London",3,"Turquoise mushroom","Emma  Donnersberg",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"88 Gallery London",00442077302728,london@88-gallery.com,"Dear Lila,
+
+Thank you for your enquiry. The price of the turquoise mushroom by Emma Donnersberg is £ 3,500 and the trade price is £ 3150 (including VAT on the margin scheme). We don't currently have one in stock but can of course commission a new one. We'd simply need to check the lead time with Emma because workshops often close for the summer holidays.
+
+Kind regards,
+
+Kate","Collectible Design | Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1701665246,1702199088,17575,1,Approved,86.169.132.239,0,0,1,-OTamfq42qNZUWgqvmmc,17575,1,Anonym685ae5917199f,madeline@michellegerson.com
+159135,872,560583,1750847299,"H. Gallery",3,"&amp;quot;E1342&amp;quot; Brass Table Lamp by Asea Belysning, Sweden Mid-20th Century","  Asea",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,ARIANNA,07876861001,aghezzi@ldi-uk.com,"Could you please let me know the type of bulb inside, E27 or E14? and how many?","Mid Century | Modern | Scandinavian Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,0,1736326965,1736326965,0,0,Approved,77.246.18.130,0,0,1,-OTacPcXH_d_zWc587gd,Anonym685bcf426f55c,0,19285,enquiries@hgallery.com
+159134,577,356900,1750822660,"L'Original Gallery",3,"1950&amp;#039;s Stitched leather armchairs by Jacques Adnet","Jacques  Adnet",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","Clive Ng",NULL,clive.ng@gmail.com,"What is your best price for this pair !
+Thanks in advance clive ","Art Deco | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1647507181,1647507181,32469,0,Approved,23.243.148.132,0,0,1,-OT_9QAviiex1tS82UWh,32469,1,14194,regis@regisroyant.com
+159133,191,570812,1750816015,"Carlton Hobbs, LLC",2,"A BEAUTIFULLY PROPORTIONED MAHOGANY HEXAGONAL CENTER TABLE",,Furniture,furniture,Tables,tables,"Center Tables",center-tables,"Jennifer Littke",NULL,jennifer@setstudio.co,"Hello! Is it possible to dine at this table when closed? We are looking for something multi purpose for a living room. what are the dimensions of each angle? Many thanks! ",Traditional,"I would like to request dimensions for this listing.",0,0,0,0,inquire,,0,1741250716,1741268872,23886,1,Approved,12.74.238.126,0,0,1,-OTZl3h4RSkzCLMZfI4n,23886,1,4193,stefanie@carltonhobbs.com
+159132,1725,582268,1750807394,"Vintage Looks",3,"Rare Pair of Svend Skipper Carved Teak &amp;amp; Plaid Armchairs for Skipper Mobler","Svend  Skipper",Furniture,furniture,Seating,seating,Armchairs,armchairs,"Teri Bella",NULL,mtbella@me.com,"Thanks Jad! Heres my email - mtbella@me.com - I think I just need one chair","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1746092034,1746092034,27777,0,Approved,72.80.134.79,0,0,1,-OTZFAvAzaFZrogtBZX9,27777,1,29636,VintageLooks@gmail.com
+159131,1725,582268,1750806898,"Vintage Looks",3,"Rare Pair of Svend Skipper Carved Teak &amp;amp; Plaid Armchairs for Skipper Mobler","Svend  Skipper",Furniture,furniture,Seating,seating,Armchairs,armchairs,"Teri Bella",NULL,mtbella@me.com,"Hello! I'm working on a film shoot in Philadelphia and interested in finding out if this is available to rent for 3 days next week - June 29 - July 2? Thank you! Teri Bella 917 701 0191","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1746092034,1746092034,27777,0,Approved,72.80.134.79,0,0,1,-OTZDI3KbLwOOKvjpE6A,27777,1,29636,VintageLooks@gmail.com
+159130,872,584859,1750803778,"H. Gallery",3,"Brass and Glass Carl Fagerlund Wall Lamp for Orrefors, Sweden 1960s","Carl  Fagerlund",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Woods Dangaran",NULL,kaitlin@woodsdangaran.com," Hello, we're interested in this sconce for a powder bath, but we would need to find a second to complete a set. Do you have another, or could you source another for us? 
+Thanks!
+Kaitlin ","Mid Century | Modern | Scandinavian Modern"," ",1,0,0,1,inquire,,0,1748506948,1748506948,56393,0,Approved,98.152.240.226,0,0,1,-OTZ1OOMD6RZPsEVlUKE,56393,1,19285,enquiries@hgallery.com
+159129,2232,567786,1750802494,"Hobbs Modern",3,"T.H. Robsjohn Gibbings For Widdicomb Side Table","T.H.  Robsjohn-Gibbings",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"Hobbs Modern",619.300.3551,Nicole@hobbsmodern.com,"Hi Heidi,
+
+Thank you for your  interest in the T.H. Robsjohn Gibbings For Widdicomb Side table the dimensions are 24"W x24"D x 20.5"H
+Thank you,
+Nicole Hobbs 
+","Mid Century | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,1,1740017353,1740017353,48070,1,Approved,207.213.21.64,0,0,1,-OTYxV-84G0e9Pny0ryQ,48070,1,56004,heidi.selig@gmail.com
+159128,695,150225,1750801551,"NYC Modern",3,"RARE ART DECO DISC AND STAR LAMPS AFTER JEAN MICHEL FRANK","Jean-Michel  Frank",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"NYC Modern",347.423.6446,NYCModern1@gmail.com,"Hello Alan,
+Are there any other questions I can answer regarding these Art Deco Lamps.
+Thank You,
+Vanessa","Art Deco | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1546894162,1546894162,16793,1,Approved,174.198.11.131,0,0,1,-OTYtth_BTJ7Vrgq2Bv5,16793,1,15055,atanksley@alantanksley.com
+159127,2232,567786,1750799530,"Hobbs Modern",3,"T.H. Robsjohn Gibbings For Widdicomb Side Table","T.H.  Robsjohn-Gibbings",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"Heidi Selig",NULL,heidi.selig@gmail.com," I would like to request dimensions for this listing.","Mid Century | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,,0,1740017353,1740017353,56004,0,Approved,71.105.226.136,0,0,1,-OTYmAw0YIiju2RCs4rr,56004,1,48070,Nicole@hobbsmodern.com
+159126,999,0,1750798880,"ReMOD Gallery",0,,,,,,,,,"Cate Steinacker",NULL,cas@rrp.nyc,"Hi
+
+We are interested in the blue Milo Baughman swivel chair. Do you have any way to authenticate the chair? 
+
+Best, 
+Cate",,,0,0,0,0,email-dealer,,0,0,0,0,0,Approved,204.144.187.212,0,0,1,-OTYjh9VXxNKTCNhG9kB,Anonym685b12206d543,0,21213,lenconmod@aol.com
+159125,1797,346259,1750798370,"John Lyle Design",3,"Matthew Dresser","  John Lyle Design",Furniture,furniture,"Storage & Case Pieces",case-pieces,Dressers,dressers,"Jose Vilanova",3054381330,jose@robertrionda.com," I would like to request the price for this listing.",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,,0,1643245653,1734526477,0,0,Approved,73.244.65.205,0,0,1,-OTYhk_RGfYLcEWnM9qv,Anonym685b1020d5b79,0,30822,support@johnlyledesign.com
+159124,716,533502,1750797587,BAC,3,"Mid-Century Modern Table Lamp by Lotte Bostlund","Lotte &amp; Gunnar  Bostlund",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,carolyn,"778 229 5407",caryemley@gmail.com," I would like to request the price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1723534413,1723534413,0,0,Approved,66.183.254.24,0,0,1,-OTYelWFh5cdxDcyihdU,Anonym685b0d127d971,0,17147,gallery@gallerybac.com
+159123,669,585873,1750796965,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,"Hello Susan,
+ There was a mistake in the listing.
+Lights are 3.5 inches deep, not 2.
+My apologies, I was traveling, and didn't notice it while responding to your email.
+Sorry for the confusion.
+Best,
+Natasha Gill
+Illustris LLC 
+www.illustris.nyc
+gill@illustyris.nyc
+(917)509-8424
+","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,72.69.132.193,0,0,1,-OTYcOpsUrx9Mc28dWKU,16406,1,41948,susan@markhaddawy.com
+159122,656,573634,1750794108,"Conjeaud &amp; Chappey LLC",3,"Pair of French Art Deco Glass and Brass Ceiling or Wall Lights by Jean Perzel","Jean  Perzel",Furniture,furniture,Lighting,lighting,"Flush Mount, Wall Lights and Sconces","flush-mount | wall-lights-and-sconces","Nella Imbachi",9295617932,nimbachi@pembrookeandives.com," I would like to request the price for this listing.","Art Deco | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1742461469,1742473491,0,0,Approved,216.158.130.26,0,0,1,-OTYSUJ1i2GqFQ80SPPl,Anonym685aff7bb59fa,0,16218,Info@les2c.com
+159121,543,556477,1750794078,Bloomberry,3,"ASEA ceiling lamp","  Asea",Furniture,furniture,Lighting,lighting,"Flush Mount",flush-mount,"Nella Imbachi",9295617932,nimbachi@pembrookeandives.com," I would like to request the price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1733832599,1733832599,0,0,Approved,216.158.130.26,0,0,1,-OTYSOHLLtva53Ar2jnt,Anonym685aff5d7b882,0,13768,patricia@bloomberry.eu
+159120,2232,516276,1750789940,"Hobbs Modern",3,"Milo Baughman Cabinet in Walnut and Black Lacquer for Directional","Milo  Baughman",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Armoires - Wardrobes, Cabinets","armoires-wardrobes | cabinets","Heidi Bosch",NULL,bsunbeams64@gmail.com," I found this cabinet on the internet, but it was sold.
+I found this beautiful piece on your website. 
+I own the same cabinet and I am trying to decide if I should sell it.
+Would you be able to tell me how much it sold for?
+Thank you for your help
+H. Bosch
+H. Bosch","Mid Century | Modern"," ",1,0,0,0,inquire,,0,1715677664,1724138987,56392,0,Approved,184.153.116.232,0,0,1,-OTYCafp5d620Mh2d5iT,56392,1,48070,Nicole@hobbsmodern.com
+159119,2326,590893,1750789656,"Philip Gorrivan Design",2,"Bohemian glass decanter in absinthe color","  Bohemia Crystal","Decorative Arts",decorative-arts,Tablewares,tablewares,"Pitchers & Jugs",pitchers-jugs,"Esteban Arboleda",NULL,esteban@haynesroberts.com,"Hi there -
+Can you please send us an invoice thank you we can send a messenger. Thank you!","Bohemian | Traditional",,1,1,800,1,make-offer,new,1,1749114157,1749114157,15181,1,Approved,100.12.16.3,0,0,1,-OTYBWSfo3-sYJhHevms,15181,1,53016,info@philipgorrivan.com
+159118,2326,590893,1750788559,"Philip Gorrivan Design",2,"Bohemian glass decanter in absinthe color","  Bohemia Crystal","Decorative Arts",decorative-arts,Tablewares,tablewares,"Pitchers & Jugs",pitchers-jugs,"Esteban Arboleda",NULL,esteban@haynesroberts.com,,"Bohemian | Traditional",,1,1,800,1,make-offer,new,0,1749114157,1749114157,15181,1,Approved,100.12.16.3,0,0,1,-OTY7KRVUc9mAXASPEwe,15181,1,53016,info@philipgorrivan.com
+159117,545,177921,1750788155,TFTM,3,"Early Original Harp Chair by Jorgen Hovelskov","Jorgen  Hovelskov",Furniture,furniture,Seating,seating,"Lounge Chairs",lounge-chairs,TFTM,323.852.9407,contact@tftmmelrose.com,"Sorry about that . I thought I answered already. Any how it’s $4,500. It is an original, not one of the later editions. 
+Maddie Sadofski 
+TFTM ","Mid Century | Modern | Scandinavian Modern",,0,0,0,1,inquire,,1,1563853741,1693301712,13785,1,Approved,172.58.211.24,0,0,1,-OTY5miDMGz20eS2ZrX9,13785,1,36673,tacho.elizondo@gmail.com
+159116,669,565335,1750788095,Illustris,3,"Murano glass flush mount ceiling light by Vistosi, attributed","  Vistosi",Furniture,furniture,Lighting,lighting,"Flush Mount",flush-mount,Illustris,917.509.8424,gill@illustris.nyc,"Hello Nella, 
+Thank you for your interest.
+We can do 20% trade discount on this light.
+It comes with a complimentary US rewiring.
+Please let me know if you have any questions.
+Best,
+Natasha Gill
+Illustris LLC 
+www. Illustris.nyc
+gill@illustris.nyc
+(917)509-8424
+","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1738743014,1738743014,16406,1,Approved,172.56.167.216,0,0,1,-OTY5ZCxSARzqgFM451_,16406,1,Anonym685adcec5cb01,nimbachi@pembrookeandives.com
+159115,2238,546441,1750788063,Habitat-Gallery,3,"De Sede DS600 Dark Chocolate Brown Leather 23 Piece Non-Stop Snake Sofa, 1960&amp;#039;s","  de Sede",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,Habitat-Gallery,310.927.6266,malenabrush@gmail.com,"Hi Tacho,
+
+Thanks so much for reaching out! The trade price on the DS600 would be $40800 and I may be able to offer free shipping depending on the location.
+
+Thanks so much for your interest and please let me know if you have any additional questions.
+
+Cheers!
+
+Malena Brush
+Habitat Gallery","Contemporary | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,trade,1,1729058260,1729063332,48562,1,Approved,98.167.66.3,0,0,1,-OTY5RMp68IM8g-ycX3u,48562,1,36673,tacho.elizondo@gmail.com
+159114,750,484367,1750787474,"88 Gallery London",3,"Turquoise mushroom","Emma  Donnersberg",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"Lila Cerrito",9145885614,madeline@michellegerson.com," I would like to request the trade price and lead time for this listing thank you!","Collectible Design | Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1701665246,1702199088,0,0,Approved,174.197.131.244,0,0,1,-OTY3BbnrLhO8rjpcyL1,Anonym685ae5917199f,0,17575,london@88-gallery.com
+159113,756,586286,1750787151,"L.A. STUDIO Interiorismo – Madrid",3,"Hexa Model Table Designed by Bernard Vuarnesson, Edited by Bellato 80s.","bernard  Vuarnesson",Furniture,furniture,Tables,tables,"Coffee Tables",coffee-tables,"Ellie Blackman",NULL,ellie@studioshamshiri.com,"Can you provide trade pricing for this table as well as place a hold for us for one week? Thank you","Contemporary | Mid Century | Modern","I would like to request the price for this listing.",1,0,0,0,inquire,,0,1747913730,1747913730,54459,0,Approved,98.152.114.66,0,0,1,-OTY1xjUrsFSy_fIKbRN,54459,1,17641,info@lastudio.es
+159112,756,586275,1750787130,"L.A. STUDIO Interiorismo – Madrid",3,"Hexa Model Table Designed by Bernard Vuarnesson, Edited by Bellato 80s.","bernard  Vuarnesson",Furniture,furniture,Tables,tables,"Coffee Tables",coffee-tables,"Ellie Blackman",NULL,ellie@studioshamshiri.com,"Can you provide trade pricing for this table as well as place a hold for us for one week? Thank you","Contemporary | Mid Century | Modern","I would like to request the price for this listing.",1,0,0,0,inquire,,0,1747914661,1747914661,54459,0,Approved,98.152.114.66,0,0,1,-OTY1smJs4QimguT9aQq,54459,1,17641,info@lastudio.es
+159111,2302,513272,1750785467,"Jacqueline Adams Antiques",2,"Swedish Gustavian Style 19th Century Light Painted Two-part Vitrine Cabinet",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Cabinets,cabinets,"Amanda Protess",9082274891,amanda.protess@gmail.com," Hi, is this still available?  Thanks. ","Gustavian | Traditional"," ",0,0,0,1,inquire,,0,1721294031,1721294031,0,0,Approved,174.166.10.168,0,0,1,-OTXwX_-UcDQj4sfR0q-,Anonym685addba6e50a,0,50758,info@jadamsantiques.com
+159110,669,565335,1750785261,Illustris,3,"Murano glass flush mount ceiling light by Vistosi, attributed","  Vistosi",Furniture,furniture,Lighting,lighting,"Flush Mount",flush-mount,"Nella Imbachi",9295617932,nimbachi@pembrookeandives.com," I would like to request trade price for this listing.","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1738743014,1738743014,0,0,Approved,216.158.130.26,0,0,1,-OTXvkIpOYwu3kfvZ0Uo,Anonym685adcec5cb01,0,16406,gill@illustris.nyc
+159109,545,177921,1750784596,TFTM,3,"Early Original Harp Chair by Jorgen Hovelskov","Jorgen  Hovelskov",Furniture,furniture,Seating,seating,"Lounge Chairs",lounge-chairs,"Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Hi, following up","Mid Century | Modern | Scandinavian Modern",,0,0,0,1,inquire,,1,1563853741,1693301712,36673,1,Approved,189.159.121.162,0,0,1,-OTXtDB3hZJgDEPcsALy,36673,1,13785,contact@tftmmelrose.com
+159108,2234,504436,1750783438,"Alexander George Fine Antique Furniture",2,"A Rare Chinese Chippendale George III cabinet on stand, circa 1760. England",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Cabinets,cabinets,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.","George III | Traditional","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1711431714,1747908609,24355,1,Approved,172.93.13.214,0,0,1,-OTXon3W9Mtqb_Mf97I3,24355,1,48112,sue.austin@alexandergeorgeantiques.com
+159107,1061,421652,1750783403,"Michael Lipitch Ltd ",2,"RARE CHINESE EXPORT LACQUER BUREAU CABINET",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Cabinets,cabinets,"claire lee",NULL,claire@robertcouturier.com," I would like to request dimensions for this listing.","Chinese Export | Traditional","I would like to request dimensions for this listing.",0,0,0,0,inquire,new,0,1672935242,1749112569,24355,1,Approved,172.93.13.214,0,0,1,-OTXoefI1UjQWex7wu7A,24355,1,22705,michaellipitchantiques@gmail.com
+159106,191,514698,1750783338,"Carlton Hobbs, LLC",2,"9260 A RARE PAIR OF MAHOGANY AND GILT-BRONZE MOUNTED SECRETAIRE","  JOSEPH CANABAS",Furniture,furniture,"Storage & Case Pieces",case-pieces,Cabinets,cabinets,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.",Traditional,"I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1714464727,1714464727,24355,1,Approved,172.93.13.214,0,0,1,-OTXoPeoWrZMukAXUt2s,24355,1,4193,stefanie@carltonhobbs.com
+159105,1061,421652,1750783327,"Michael Lipitch Ltd ",2,"RARE CHINESE EXPORT LACQUER BUREAU CABINET",,Furniture,furniture,"Storage & Case Pieces",case-pieces,Cabinets,cabinets,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.","Chinese Export | Traditional","I would like to request the trade price for this listing.",0,0,0,0,inquire,new,0,1672935242,1749112569,24355,1,Approved,172.93.13.214,0,0,1,-OTXoN7SOQofGyJFVucP,24355,1,22705,michaellipitchantiques@gmail.com
+159104,237,43234,1750783035,epoca,2,"A Handsome Swedish Gustavian Alder Root Parquetry Chest","  Gustavian Style",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Chests & Commodes",chests-commodes,epoca,415.864.6895,info@epocasf.com,"Hi Jinny - a quick note to see if you would like to extend the hold on the Gustavian chest or if you have any questions I can answer for you. 
+Many thanks,
+Eric
+","Gustavian | Traditional"," ",1,0,0,1,inquire,,1,1475560021,1732101554,5041,1,Approved,76.103.73.42,0,0,1,-OTXnFw1JrIiIn8t_CQj,5041,1,22576,jinny@odg-interiors.com
+159103,870,0,1750782257,"The Gallery at 200 Lex ",0,,,,,,,,,"Beth Corning",NULL,cdcmsn@verizon.net,"I am curious to talk with a dealer who might be interested in several original Hans Wegner pieces I own, including: 1 "THE CHAIR" / 4 COW HORN -HORN BACK CHAIRS/ 1 OAK VALET CHAIR/ 2 CH27 cane LOUNGE CHAIRS.
+
+I am located in Pittsburgh, PA
+
+Thank you.",,,0,0,0,1,email-dealer,,0,0,0,0,0,Approved,74.98.226.214,0,0,1,-OTXkIBiX7WkLyPRn3X5,Anonym685ad13198ebe,0,19254,thegallery@nydc.com
+159102,716,584019,1750780721,BAC,3,"Pair of Table Lamps by Christian Schollert","Christian  Schollert",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.","Art Deco | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1747913935,1747913935,24355,1,Approved,172.93.13.214,0,0,1,-OTXeQt4gI4oZOU9v-xr,24355,1,17147,gallery@gallerybac.com
+159101,716,588427,1750780712,BAC,3,"Pair of Table Lamps by Bergboms &amp;amp; Co.","  Bergboms",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1748506917,1748506917,24355,1,Approved,172.93.13.214,0,0,1,-OTXeOYRsrMVFljMz4IP,24355,1,17147,gallery@gallerybac.com
+159100,716,589302,1750780700,BAC,3,"Pair of Table Lamps by Tranås Stilarmatur","  Tranås Stilarmatur AB",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"claire lee",NULL,claire@robertcouturier.com," I would like to request the trade price for this listing.","Brutalist | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,new,0,1749118198,1749118198,24355,1,Approved,172.93.13.214,0,0,1,-OTXeLxlipbqANXjKEL9,24355,1,17147,gallery@gallerybac.com
+159099,2238,546441,1750779652,Habitat-Gallery,3,"De Sede DS600 Dark Chocolate Brown Leather 23 Piece Non-Stop Snake Sofa, 1960&amp;#039;s","  de Sede",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Tacho Elizondo",NULL,tacho.elizondo@gmail.com," I would like to request the trade price for this listing.","Contemporary | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,trade,0,1729058260,1729063332,36673,1,Approved,189.159.121.162,0,0,1,-OTXaMBzYkOoXHAR1xu7,36673,1,48562,malenabrush@gmail.com
+159098,767,381359,1750773831,Portuondo,3,"Rare pair of Trapeza tables","T.H.  Robsjohn-Gibbings",Furniture,furniture,Tables,tables,"Center Tables, Coffee Tables, Side Tables","center-tables | coffee-tables | side-tables",Portuondo,44.207.259.0099,info@portuondo.com,"Good afternoon
+Thank you got your enquiry.
+The retail price of the tables is £55,000
+They are quite rare and a fantastic pair of tables.
+Please do not hesitate to contact us should you require further information.
+Best wishes
+Dominic Bayne","Collectible Design | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,new,1,1657807632,1749116545,17762,1,Approved,81.130.141.229,0,0,1,-OTXF90DCLDXKhPTiG7k,17762,1,Anonym68588e2597aef,mvbl1951@gmail.com
+159097,2076,364154,1750771306,"Metro Retro Furniture",3,"Drexel Passage Campaign Pecan Dresser","  Drexel (Drexel Heritage Furniture)",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Dressers","cabinets | dressers","Metro Retro Furniture",713.473.0000,Joe@metroretrofurniture.com,"We were offering 25% off.
+
+RIck","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1649930362,1680264811,36450,1,Approved,69.234.33.208,0,0,1,-OTX5Wbc05Xk5yGEKUUA,36450,1,15055,atanksley@alantanksley.com
+159096,2182,572155,1750764853,"Thomsen Gallery",2,"Box for Writing Utensils with Design of Egrets and Waterwheel, 19th century","  Maki-e","Decorative Arts",decorative-arts,Objects,decorative-objects,"Boxes & Baskets",boxes-baskets,"Buckley LLC",619.977.6505,buckleyartllc@gmail.com," I would like to request the trade price for this listing.","Asian | Traditional","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1741856924,1741856924,20589,1,Approved,68.107.102.183,0,0,1,-OTWhu7AlT8r1Za7taff,20589,1,40962,info@thomsengallery.com
+159095,80,570034,1750738000,"Todd Merrill Studio",3,"Gerri Spilka, Free Verse #33, USA, 2022","Gerri  Spilka","Decorative Arts",decorative-arts,"Textiles & Pillows",textiles-wallpaper,Tapestries,tapestries,"Adrian Iglesias",NULL,adrian.iglesias22@hotmail.com,"Hellow I am interested if you can accept my offer ","Contemporary | Modern",,0,1,200,0,make-offer,,0,1745487780,1745487780,56389,0,Approved,47.38.200.254,0,0,1,-OTV6TNvchpVuAwWHYMx,56389,1,255,info@toddmerrillstudio.com
+159094,669,585873,1750726005,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,-NaN-,"Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,72.69.132.193,0,0,1,-OTUOhPRFep4YAjIuT5n,16406,1,41948,susan@markhaddawy.com
+159093,669,585873,1750725965,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,"Hello Susan,
+sockets and bulbs are positioned parallel to the wall, like on the image attached.
+Torpedo shape bulbs, 4 candelabra sockets, recommended wattage 40W
+Best,
+Natasha Gill","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,72.69.132.193,0,0,1,-OTUOYwRmoQvTQ80Stmh,16406,1,41948,susan@markhaddawy.com
+159092,2302,591047,1750723403,"Jacqueline Adams Antiques",2,"Italian Louis XVI Inlaid Commode with Floral Marquetry, Late 18th Century",,Furniture,furniture,"Storage & Case Pieces",case-pieces,"Chests & Commodes",chests-commodes,"Jinny Kim",NULL,jinny@odg-interiors.com,"  Hello, we would like to request a hold on this commode while we present to our client.  Thank you!","Louis XVI | Traditional"," ",1,0,0,1,inquire,new,0,1749117105,1749117105,22576,1,Approved,76.83.31.38,0,0,1,-OTUEmHuK2aUJTeg7sEa,22576,1,50758,info@jadamsantiques.com
+159091,2302,593441,1750723353,"Jacqueline Adams Antiques",2,"Italian commode 18th century",,Furniture,furniture,"Storage & Case Pieces",case-pieces,"Chests & Commodes",chests-commodes,"Jinny Kim",NULL,jinny@odg-interiors.com," Hello, we would like to request a hold on this commode while we present to our client.  Thank you!",Traditional," ",1,0,0,1,inquire,new,0,1749712369,1749712369,22576,1,Approved,76.83.31.38,0,0,1,-OTUEaM-hCvZJcLMv_DX,22576,1,50758,info@jadamsantiques.com
+159090,567,54083,1750720028,"Van Den Akker Antiques & Mid Century Modern – Studio Van den Akker Custom",3,"A Modernist Vanity in Black Lacquer",,Furniture,furniture,Tables,tables,"Dressing Tables & Vanities, Desks & Writing Tables","dressing-tables-lowboys | desks-secretaries","Jaya Williams",NULL,jaya@studioshamshiri.com," I would like to request the price for this listing.","Mid Century | Modern","I would like to request the price for this listing.",1,0,0,0,inquire,,0,1488816738,1620838657,48422,1,Approved,98.152.114.66,0,0,1,-OTU1ue4O00p9zykbYn6,48422,1,14029,chris@studiovandenakker.com
+159089,801,181585,1750716722,Amorph,3,"Anika Console, Bronze Finish, With White Marble Stone","  Amorph",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"Lina Flake",NULL,linamflake77@yahoo.com," I would like to request the price for this listing.","Collectible Design | Contemporary | Minimalist","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1566269801,1741245525,46691,0,Approved,23.112.36.138,0,0,1,-OTTqHzllMxZ4biX6Kzt,46691,1,18314,info@a-morph.com
+159088,929,508970,1750716106,Acroterion,2,"Calamander Inlaid Mahogany Sofa Table by William Wilkinson, London, circa 1820","William  Wilkinson",Furniture,furniture,Tables,tables,"Desks & Writing Tables, Side Tables, Other","desks-secretaries | side-tables | other",Acroterion,917.656.5863,info@acroterion.com,"Hi Randle,
+  Thank you for your inquiry.  List price is $8,975; best trade or net is $6,750.  Please let me know if I can be of further assistance.
+
+Best regards,
+
+Randal Dawkins","Georgian | Regency | Traditional","I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1713259265,1713259265,19736,1,Approved,104.228.4.9,0,0,1,-OTTnx3f6VAw-XOQi-Ns,19736,1,33241,randle@leeledbetter.com
+159087,929,508970,1750713658,Acroterion,2,"Calamander Inlaid Mahogany Sofa Table by William Wilkinson, London, circa 1820","William  Wilkinson",Furniture,furniture,Tables,tables,"Desks & Writing Tables, Side Tables, Other","desks-secretaries | side-tables | other","Randle Looney",NULL,randle@leeledbetter.com," I would like to request the trade price for this listing.
+Thank you, 
+Randle","Georgian | Regency | Traditional","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1713259265,1713259265,33241,1,Approved,23.121.1.27,0,0,1,-OTTebSZQymzYc3jdVC9,33241,1,19736,info@acroterion.com
+159086,872,355152,1750712030,"H. Gallery",3,"Carl Malmsten &amp;quot;Ulla&amp;quot; Three-Seater Birch Sofa, Sweden 1950s","Carl  Malmsten",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"tim button",NULL,tim@stediladesign.com," I would like to request more details about the condition of this listing.
+And what would shipping costs be?
+Thanks
+Tim Button  ","Collectible Design | Mid Century | Scandinavian Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,0,1646907440,1647476658,22914,1,Approved,74.72.35.245,0,0,1,-OTTZOnnncxv0bsP2kfl,22914,1,19285,enquiries@hgallery.com
+159085,2307,528805,1750710023,"Linea Gallery",3,"Enrico Botta Fiberglass pendant light by Sundown Edition, Italy, 1968","Enrico  Botta",Furniture,furniture,Lighting,lighting,"Chandeliers and Pendants",chandeliers-and-pendants,"Karen Dan",9143571661,karen@lucyharrisstudio.com," I would like to request the price, dimensions and lumens/light output  for this listing",Modern,"I would like to request the price for this listing.",0,0,0,0,inquire,,0,1721294276,1721294276,0,0,Approved,131.239.155.186,0,0,1,-OTTRjeYHDBiChl5xeab,Anonym6859b706651a7,0,51248,midcentury@linea.gallery
+159084,1621,533265,1750709951,"Domus Aurea",3,"Late 20th Century Pair of Transparent Murano Art Glass with Applications Vases","  Costantini Murano","Decorative Arts",decorative-arts,Objects,decorative-objects,"Vases, Jars, & Urns",vases-jars-urns,"Aaron Boehlert",NULL,aaron@haynesroberts.com,"Hi Paolo,
+below is the information for the invoice. everything else is correct. thanks!
+Dmitri and Daria Bukhman 
+1 Campden Hill 
+London  
+W8 7AD United Kingdom","Art Glass | Modern"," ",1,0,0,1,inquire,,1,1722933448,1722933448,31927,1,Approved,100.12.16.3,0,0,1,-OTTRSqZxC00bCp_APDM,31927,1,28377,domusaurea64@gmail.com
+159083,669,585873,1750709521,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Susan Stewart Sidel",NULL,susan@markhaddawy.com,"Ok, understood they are surface mount.
+We need a very shallow depth light, but wondering how a light bulb fits in this 2" deep light and how bright of a bulb can be used.
+
+","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,41948,1,Approved,76.91.152.22,0,0,1,-OTTPpTpXi8OpEbE4cME,41948,1,16406,gill@illustris.nyc
+159082,656,573634,1750704350,"Conjeaud &amp; Chappey LLC",3,"Pair of French Art Deco Glass and Brass Ceiling or Wall Lights by Jean Perzel","Jean  Perzel",Furniture,furniture,Lighting,lighting,"Flush Mount, Wall Lights and Sconces","flush-mount | wall-lights-and-sconces","Susan Stewart Sidel",NULL,susan@markhaddawy.com,,"Art Deco | Mid Century | Modern",,1,1,6200,1,make-offer,,0,1742461469,1742473491,41948,1,Approved,76.91.152.22,0,0,1,-OTT666GCwSVIHr8TUTr,41948,1,16218,Info@les2c.com
+159081,690,586640,1750703258,"Newel Antique Gallery",3,"Pair of Mid-Century Gilt Wrought Iron Floor Lamps",,Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Barbara Lowenthal",NULL,blowenthal@harrisondesign.com," Hello-
+
+I would like to get the trade price and shipping to CA-zip code 93101-for these lamps.
+
+Thank you,
+Barbara Lowenthal",Modern," ",1,0,0,1,inquire,,0,1740571953,1740571953,15029,1,Approved,75.85.178.138,0,0,1,-OTT1wMlGXWN9vD19OaA,15029,1,16727,Incollect@Newel.com
+159080,1797,344380,1750697674,"John Lyle Design",3,"Zig Zag Andirons","  John Lyle Design","Decorative Arts",decorative-arts,Objects,decorative-objects,"Fireplace Accessories",fireplace-accessories,"John Lyle Design",646.344.1964,support@johnlyledesign.com,"Hello N., thanks for your inquiry.
+
+Our standard size ZigZag andirons are $2900 net / $3700 list. They are in our Quick Ship program, with a lead time of 2-3 weeks.
+
+This photo is shown with our thermal ceramic Birch log set, which is $1600 net / $2000 list.
+
+Please let me know if you need further assistance!
+Best,
+Heather","Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1642640270,1720401869,30822,1,Approved,107.145.168.111,0,0,1,-OTShd26rokSiTknHZxL,30822,1,40061,nap805@yahoo.com
+159079,802,562778,1750695668,B4,3,"SWEDISH ART DECO PATINATED BRASS CHANDELIER WITH TARGET MOTIF BY BOHLMARKS.","  Böhlmarks AB (Bohlmarks)",Furniture,furniture,Lighting,lighting,"Chandeliers and Pendants",chandeliers-and-pendants,B4,917.207.2622,mail@b4decor.com,"Hello Kate,
+
+I'm sorry but I think spell check changed courier to "Corrie" in your message, Is that correct? 
+I would need to bring this chandelier to a packing company to have it paced professionally since I do not keep packing materials at my shop and do not want it to be damaged. in any way.  
+Please advise,
+Best
+Kerry
+","Art Deco | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1737542944,1737554058,18316,1,Approved,68.175.84.194,0,0,1,-OTS_zBbXNYEYZMboZ9S,18316,1,38391,kate@katemacphersondesign.com
+159078,725,312729,1750693913,"Laurin Copen Antiques",3,"Set of  Nautical Dining Chairs",,Furniture,furniture,Seating,seating,"Dining Chairs, Outdoor","dining-chairs | outdoor","Laurin Copen Antiques",631.537.2802,info@lcopenantiques.com,"Hi again, 
+Unfortunately, the net price of $1,530 is the best we can do for the set.
+Best, 
+Lauren","Mid Century | Modern",,1,1,1200,1,make-offer,,1,1627494358,1711425522,17268,1,Approved,108.170.77.190,0,0,1,-OTSUHiM4l_M0ekLSWE3,17268,1,50336,brad@goldcasters.com
+159077,802,562778,1750691537,B4,3,"SWEDISH ART DECO PATINATED BRASS CHANDELIER WITH TARGET MOTIF BY BOHLMARKS.","  Böhlmarks AB (Bohlmarks)",Furniture,furniture,Lighting,lighting,"Chandeliers and Pendants",chandeliers-and-pendants,"Kate MacPherson",NULL,kate@katemacphersondesign.com,"Hi Kerry, I’d like to have a Corrie come by to pick up this fixture. Will you please get it boxed up and send me the address? Would Tuesday or Wednesday work?
+
+Thanks, 
+Kate","Art Deco | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1737542944,1737554058,38391,1,Approved,104.28.55.165,0,0,1,-OTSLE1LzIt1-lgExvJl,38391,1,18316,mail@b4decor.com
+159076,749,401405,1750690579,"Mark Brazier-Jones Ltd",3,"Seaweed Side Table","Mark  Brazier-Jones",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"Mark Brazier-Jones Ltd",01763273599,studio@brazier-jones.com,"Good morning Mindy - hope you are well ... I think you are based in Philadelphia is that correct ...?  The Seaweed Tables are available to order and are £8,250 each.  This is in the bronze finish with a simple black stone top.  The size of the tables is 29 inches tall with a hexagonal black stone top (we could also use pale coloured stone).  The stone is 1.65 inches across.  The is the price per table.  They are made to order only with the lead time being approx 8 weeks - though I do have one in stock at the moment with a dark stone top.   If you would like a transport quote please let me have a shipping address.  Sending this to your email as well in case the Incollect system doesn't work.  Any further questions you might have please don't hesitate to reach out.  Kind regards, Julia   ","Collectible Design | Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1665054799,1744882513,17564,1,Approved,86.178.29.245,0,0,1,-OTSHZ_ANPesI0h9hKsG,17564,1,Anonym6856bc2577fef,mindylfortin@gmail.com
+159075,688,567338,1750690457,"t brown studio",3,"Danish Brass &amp;amp; Teak Floor Lamp",,Furniture,furniture,Lighting,lighting,"Floor Lamps",floor-lamps,"Kelly Mundy",NULL,procurement@souciehorner.com,"Hello.  White Glove has been attempting to pick up the lamp and shade for multiple days with no answer and no response at the studio.  Is there a cell number we can reach?  We are under tight timeframe and would appreciate immediate assistance.  Kind regards.
+","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1739432757,1739432757,18373,1,Approved,216.80.32.130,0,0,1,-OTSH5_BdTjMmk8YOG-p,18373,1,16692,shop@tbrownstudio.com
+159074,1725,582268,1750690221,"Vintage Looks",3,"Rare Pair of Svend Skipper Carved Teak &amp;amp; Plaid Armchairs for Skipper Mobler","Svend  Skipper",Furniture,furniture,Seating,seating,Armchairs,armchairs,"Vintage Looks",2675165800,VintageLooks@gmail.com,"Yes. Send me your email address and I'll send you the terms. Thanks Jad ","Mid Century | Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,1,1746092034,1746092034,29636,1,Approved,172.59.212.174,0,0,1,-OTSGC18vK-w9TnFtZYE,29636,1,27777,mtbella@me.com
+159073,695,172233,1750690162,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"Bruce Fox Design",312.464.0077,info@brucefoxdesign.com,"Received thank you! ","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16819,1,Approved,96.92.193.133,0,0,1,-OTSFyd3NkLJ2SCLEzXj,16819,1,16793,NYCModern1@gmail.com
+159072,695,172233,1750689956,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"NYC Modern",347.423.6446,NYCModern1@gmail.com,"Hi Mary,
+I just emailed you the tracking information.
+Thank You,
+Vanessa","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16793,1,Approved,174.175.193.122,0,0,1,-OTSFBJI04HyzKg82srf,16793,1,16819,info@brucefoxdesign.com
+159071,1725,582268,1750689285,"Vintage Looks",3,"Rare Pair of Svend Skipper Carved Teak &amp;amp; Plaid Armchairs for Skipper Mobler","Svend  Skipper",Furniture,furniture,Seating,seating,Armchairs,armchairs,"Teri Bella",NULL,mtbella@me.com,"Hi- I'm working on a commercial in Philadelphia next weekend and wonder if these are avail to rent?","Mid Century | Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,0,1746092034,1746092034,27777,0,Approved,72.80.134.79,0,0,1,-OTSCcYTqD5mtvT2GQib,27777,1,29636,VintageLooks@gmail.com
+159070,695,172233,1750689232,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"Bruce Fox Design",312.464.0077,info@brucefoxdesign.com,"Hi Vanessa, 
+
+Do you have a tracking number? ","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16819,1,Approved,96.92.193.133,0,0,1,-OTSCR5iGEm2CxuxIh26,16819,1,16793,NYCModern1@gmail.com
+159069,1010,576993,1750665906,"Jasper Maison",3,"Guillerme and Chambron, Rare Daybed for Votre Maison&amp;quot;, 1960","Guillerme et Chambron",Furniture,furniture,Seating,seating,Daybeds,daybeds,"Jasper Maison",33630610329,info@jaspermaison.com,"Hi Tacho,
+
+Thank you very much for your interest.
+I have placed this piece on hold for you.
+
+If we finalize an order together on Incollect or our website Jaspermaison.com, I would offer 7750 euros for the Guillerme and Chambron daydeb + 1250 euros of shipping cost to 92262 Palm Springs, USA (Very Safe packing into a wooden crate especially made for exportation / insurance 100% cover / Express delivery to USA by air freight)
+
+For a total amount of 9000 euros. It would be around 10,350 US dollars for you. (All included)
+
+Please let me know what you think about this offer.
+
+I remain at your disposal by email and by phone if you have any questions.
+
+En vous souhaitant une excellente journée !
+
+Best regards,
+Steve Proisy
+
++33 6 30 61 03 29","Mid Century | Modern",,0,0,0,1,inquire,,1,1743669572,1743669572,21473,1,Approved,88.122.194.56,0,0,1,-OTQoS8LeI3qpZGbN86S,21473,1,36673,tacho.elizondo@gmail.com
+159068,545,41595,1750642877,TFTM,3,"“La Chasse” 4 Panel Folding Screen by Jean Dunand","Jean  Dunand","Fine Art",fine-art,Paintings,paintings,"Animals, Figurative, Sporting Art","animals | figurative | sporting-art",TFTM,323.852.9407,contact@tftmmelrose.com,"Hi Anthony,
+The price is $165,000. This screen is recorded in the Dunands archives.
+Maddie Sadofski
+TFTM",Modernism,"I would like to request the price for this listing.",0,0,0,1,inquire,,1,1476130385,1734526441,13785,1,Approved,104.60.23.67,0,0,1,-OTPRay5uUqw1oNYhwi-,13785,1,Anonym685825b0a18ee,anthony@specter.co.uk
+159067,767,381359,1750634022,Portuondo,3,"Rare pair of Trapeza tables","T.H.  Robsjohn-Gibbings",Furniture,furniture,Tables,tables,"Center Tables, Coffee Tables, Side Tables","center-tables | coffee-tables | side-tables","Verhoeven Marijke",,mvbl1951@gmail.com," I would like to request the price for this listing.","Collectible Design | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,new,0,1657807632,1749116545,0,0,Approved,94.227.138.151,0,0,1,-OTOupDh9Wh3j-lSL6nr,Anonym68588e2597aef,0,17762,info@portuondo.com
+159066,2182,575612,1750631507,"Thomsen Gallery",3,"Scenes of the Twelve Months, circa 1915-25","Aida  Naohiko","Fine Art",fine-art,Paintings,paintings,Landscape,landscape,"Thomsen Gallery",212.288.2588,info@thomsengallery.com,"Thank you for enquiring about this pair of screens with scenes of the 12 months of the year.
+The work is available at our NY gallery and our retail price is $140,000 for the pair.
+Below is more information about the artist and the work.
+With best wishes,
+Erik
+
+Well-known as a Western-style watercolorist, Aida Naohiko here adopts Japanese conventions and a vertical East-Asian format to depict a series of twelve charming, delicate, and atmospheric landscape subjects, each of them related to a particular month of the year and labeled with a cartouche in the form of two overlapping squares of Japanese paper. Some paintings in the series recall the work of painters in the neo-Rinpa style pioneered by Kyoto-based artist and art director Kamisaka Sekka (1866–1942).
+
+Born in Aizu-Wakamatsu, some 200 miles north of Tokyo, Aida Naohiko (known early in his career as Torahiko 寅彦) exhibited regularly at the Bunten official national salon and its successors from 1909 until 1943, eventually reaching mukansa status (free from the  requirement to submit his work for selection) and serving as a jury member. He was a member or founder-member of several leading associations devoted to watercolors or Western-style painting, including the Nihon Suisaigakai, the Hakujitsukai, the Hakubakai, and the Taiheiyōgakai.
+
+The twelve scenes are as follows, from right to left:
+First Month: Sunrise on New Year’s Day
+Second Month: Mountain Home in the Snow
+Third Month: Plum-Blossom Village
+Fourth Month: Cherry Blossom in the Mountains
+Fifth Month: In the Willow's Shade
+Sixth Month: The Scent of Flowers
+Seventh Month: Evening Cool
+Eighth Month: Waterfall Deep in the Mountains
+Ninth Month: Rainstorm
+Tenth Month: Evening Moon
+Eleventh Month: Pasture
+Twelfth Month: Withered Grasses in the Mountains
+","Asian Art","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1743063668,1743063668,40962,1,Approved,74.72.32.12,0,0,1,-OTOlDyhxRKFaI3yQmgj,40962,1,Anonym6856743726cdf,bernard.baines.14@gmail.com
+159065,1969,521783,1750618962,Workshop/APD,3,"ENTWINE DINING CHAIR","  Workshop/APD Collection",Furniture,furniture,Seating,seating,"Dining Chairs",dining-chairs,"Melissa Levien",NULL,melevien@me.com," I would like to request the price for this listing.","Contemporary | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1717578290,1725321600,7707,0,Approved,104.28.56.17,0,0,1,-OTO0NFMS0auGcVIBarW,7707,1,34442,sales@workshop-collection.com
+159064,1010,576993,1750613949,"Jasper Maison",3,"Guillerme and Chambron, Rare Daybed for Votre Maison&amp;quot;, 1960","Guillerme et Chambron",Furniture,furniture,Seating,seating,Daybeds,daybeds,"Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Hi, are you able to give me shipping costs to palm springs? Zip code 92262. Can you place it on hold? ","Mid Century | Modern",,0,0,0,1,inquire,,0,1743669572,1743669572,36673,1,Approved,5.225.202.58,0,0,1,-OTNiEyQQEpkyIW8auy9,36673,1,21473,info@jaspermaison.com
+159063,545,177921,1750613392,TFTM,3,"Early Original Harp Chair by Jorgen Hovelskov","Jorgen  Hovelskov",Furniture,furniture,Seating,seating,"Lounge Chairs",lounge-chairs,"Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Hello, what is the trade price of this chair?","Mid Century | Modern | Scandinavian Modern",,0,0,0,1,inquire,,0,1563853741,1693301712,36673,1,Approved,5.225.202.58,0,0,1,-OTNg7NK6Pza_k7sBndg,36673,1,13785,contact@tftmmelrose.com
+159062,545,41595,1750607281,TFTM,3,"“La Chasse” 4 Panel Folding Screen by Jean Dunand","Jean  Dunand","Fine Art",fine-art,Paintings,paintings,"Animals, Figurative, Sporting Art","animals | figurative | sporting-art","Anthony Specter",9175367698,anthony@specter.co.uk," I would like to request the price for this listing. Many thanks!",Modernism,"I would like to request the price for this listing.",0,0,0,1,inquire,,0,1476130385,1734526441,0,0,Approved,74.72.53.133,0,0,1,-OTNJo_5U00s29tU5chr,Anonym685825b0a18ee,0,13785,contact@tftmmelrose.com
+159061,268,0,1750605370,"Marcy Burns American Indian Arts LLC",0,,,,,,,,,"Thomas Foley",NULL,tf1150@gmail.com,"Hi,
+
+Do you buy Native American jewelry? I have a vintage Navajo claw ring for sale.
+
+Tom",,,0,0,0,0,email-dealer,,0,0,0,0,0,Approved,71.247.226.96,0,0,1,-OTNCX--LXFP0zuUogsB,Anonym68581e3a3bd0d,0,5613,info@marcyburns.com
+159060,725,312729,1750564417,"Laurin Copen Antiques",3,"Set of  Nautical Dining Chairs",,Furniture,furniture,Seating,seating,"Dining Chairs, Outdoor","dining-chairs | outdoor","J. Brad Lawrence",NULL,brad@goldcasters.com,"Would you accept $1200 for the set of four chairs.  ","Mid Century | Modern",,1,1,1200,1,make-offer,,0,1627494358,1711425522,50336,1,Approved,74.75.235.66,0,0,1,-OTKlIoHFYf6p01Rcknc,50336,1,17268,info@lcopenantiques.com
+159059,543,515168,1750541395,Bloomberry,3,"Large fabric flush mount",,Furniture,furniture,Lighting,lighting,"Flush Mount",flush-mount,"Claire Morgos",NULL,claire@morgos.co," I would like to request the trade price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1715072115,1715072115,53455,1,Approved,98.152.49.46,0,0,1,-OTJOTgGIxAO7Im3n8mq,53455,1,13768,patricia@bloomberry.eu
+159058,543,429051,1750541378,Bloomberry,3,"Large fabric ceiling lamp","Carl  Malmsten",Furniture,furniture,Lighting,lighting,"Flush Mount",flush-mount,"Claire Morgos",NULL,claire@morgos.co," I would like to request the trade price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1676660575,1676660575,53455,1,Approved,98.152.49.46,0,0,1,-OTJOPw30XaMDr90Jmik,53455,1,13768,patricia@bloomberry.eu
+159057,983,164371,1750536608,"Maison Rapin",3,"Turquoise and labradorite sideboard by KAM TIN","  Kam Tin",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Chests & Commodes, Sideboards & Credenzas","cabinets | chests-commodes | sideboards","marcia  lazowski",NULL,lazdesigner21@gmail.com," I would like to request the price for this listing.","Collectible Design | Contemporary | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1554155249,1716964792,56381,0,Approved,8.14.58.12,0,0,1,-OTJ6DMxKQP1hrOVXiuq,56381,1,20941,alice@maison-rapin.com
+159056,669,585873,1750530774,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,"They are not recess lights.
+They are to be mounted directly on the wall as you see on listing's images.","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,69.206.178.238,0,0,1,-OTIky01WfXKo2Ddp6xV,16406,1,41948,susan@markhaddawy.com
+159055,1511,246778,1750529513,"Thema LLC ",3,"Akan armchair ( arms and legs in  bronze )","  Lorenzo Tondelli",Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","Thema LLC ",3106598400,thema@themallc.com,"Hi Janet   
+I hope you are doing well. 
+
+Please note that I will discount to $ 5950
+the armchair has legs  and armrests in hammered real bronze.  
+Purchase by July 16.  Thank you 
+
+gianluigi 
+www.themallc.com ","Contemporary | Modern"," ",0,0,0,1,inquire,,1,1593085998,1747912207,27681,1,Approved,172.91.183.124,0,0,1,-OTIg9K4-8mipWLmcSfp,27681,1,52968,janetbellinc@gmail.com
+159054,758,486526,1750524099,"Carlyle Collective",3,"MIRA | DESK","Gregory  Beson",Furniture,furniture,Tables,tables,"Desks & Writing Tables",desks-secretaries,"Nicole Mutchnik",NULL,nicole@mutchnik.com," Greetings, please share details on availability, pricing and condition of this handsome desk. 
+With thanks, Nicole ","Contemporary | Modern","I would like to request more details about the condition of this listing.  ",0,0,0,0,inquire,,0,1703483766,1703483766,23140,0,Approved,24.9.201.196,0,0,1,-OTIMVUGpnAMJdZUFJbj,23140,1,17679,Inquiry@carlylecollective.com
+159053,749,401405,1750514726,"Mark Brazier-Jones Ltd",3,"Seaweed Side Table","Mark  Brazier-Jones",Furniture,furniture,Tables,tables,"Side Tables",side-tables,"Mindy Fortin",4843567465,mindylfortin@gmail.com," I would like to request the price for this listing.","Collectible Design | Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1665054799,1744882513,0,0,Approved,76.124.145.5,0,0,1,-OTHnk-EemadVJw5iYPf,Anonym6856bc2577fef,0,17564,studio@brazier-jones.com
+159052,1797,344380,1750513801,"John Lyle Design",3,"Zig Zag Andirons","  John Lyle Design","Decorative Arts",decorative-arts,Objects,decorative-objects,"Fireplace Accessories",fireplace-accessories,"N. Anderson-Papillion",NULL,nap805@yahoo.com," I would like to request the price for this listing.","Contemporary | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1642640270,1720401869,40061,0,Approved,104.28.111.132,0,0,1,-OTHkD4z3jHOsyccMOTl,40061,1,30822,support@johnlyledesign.com
+159051,2215,427388,1750505506,"Mary Kay's Furniture",3,"Mid Century Expandable Dining Table Lane Bow Tie Tuxedo","  Lane Furniture",Furniture,furniture,Tables,tables,"Dining Tables",dining-tables,"Mary Kay's Furniture",410.852.4896,marykaysfurniture@gmail.com,"Thank you for your interest this is a beautiful  table, with some veneer,  the table has one   leaf, the signature butterfly inserts  are  original","Mid Century | Modern"," ",0,0,0,1,inquire,,1,1677245487,1695888253,46320,1,Approved,71.121.168.96,0,0,1,-OTHFZiU4esw8xtxVQT9,46320,1,56290,acat001@bell.net
+159050,2215,556499,1750504864,"Mary Kay's Furniture",3,"Mid-Century Modern Woven Rocking Chair in the Style of Hans Wegner","Hans  Wegner",Furniture,furniture,Seating,seating,"Armchairs, Rocking Chairs","armchairs | rocking-chairs","Mary Kay's Furniture",410.852.4896,marykaysfurniture@gmail.com,"Thank you for your interest, we wanted to follow up , do you still want us to hold this item for you? 
+thank you, 
+Mary Kay's Furniture","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1733830955,1733830955,46320,1,Approved,71.121.168.96,0,0,1,-OTHD7RRKoAhcJCo6Lsy,46320,1,19877,info@sarabengur.com
+159049,2182,575612,1750496312,"Thomsen Gallery",3,"Scenes of the Twelve Months, circa 1915-25","Aida  Naohiko","Fine Art",fine-art,Paintings,paintings,Landscape,landscape,"Bernard Baines",,bernard.baines.14@gmail.com," I would like to request the price for this listing.","Asian Art","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1743063668,1743063668,0,0,Approved,86.253.253.9,0,0,1,-OTGhVTleometjz2TFaf,Anonym6856743726cdf,0,40962,info@thomsengallery.com
+159048,669,585873,1750462916,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Susan Stewart Sidel",NULL,susan@markhaddawy.com,"Hi,
+Apologies, I didn't word my question correctly.  I meant to ask if they were surface or flush mount.
+So if the lights are 2" H, do the recess 1"?  ","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,41948,1,Approved,76.91.152.22,0,0,1,-OTEi5Z_JdZROTcLVKH1,41948,1,16406,gill@illustris.nyc
+159047,669,585873,1750462363,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,Illustris,917.509.8424,gill@illustris.nyc,"Hello Susan,
+ Thank you for your interest.
+Lights are flush mounts.
+I'll double check the Max Wattage with our electrician and get back to you on this.
+Enjoy your weekend!
+Best,
+Natasha Gill
+Illustris LLC
+www.illustris.nyc
+gill@illustris.nyc
+(917)509-8424","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1747913685,1747913685,16406,1,Approved,69.206.178.238,0,0,1,-OTEfzgCfePcQz3z9tG6,16406,1,41948,susan@markhaddawy.com
+159046,669,585873,1750461750,Illustris,3,"Fontana Arte attributed sconces, set of 2","  Fontana Arte",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Susan Stewart Sidel",NULL,susan@markhaddawy.com," I would like to request more details about these lights. Are they flush mount or do they recess (if so much much do they recess)?  What is the max wattage of bulbs these can take?","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,0,1747913685,1747913685,41948,1,Approved,76.91.152.22,0,0,1,-OTEde8oEJDoEhAv8AOx,41948,1,16406,gill@illustris.nyc
+159045,760,552201,1750461302,"Original in Berlin",3,"Armchair with Vienna cane weaving by Frits Schlegel","  Frits Schlegel",Furniture,furniture,Seating,seating,"Lounge Chairs",lounge-chairs,"Tacho Elizondo",NULL,tacho.elizondo@gmail.com," I would like to request the trade price for this listing.",Modern,"I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1731502126,1731502126,36673,1,Approved,195.55.122.114,0,0,1,-OTEbxAF5wBiMJAmCdNp,36673,1,17700,info@originalinberlin.de
+159044,713,276753,1750457335,"Kabinet Hubert",3,"Lucien Rollin Commode with Rosewood Marquetry and Red Marble Top, France, 1945","Lucien  Rollin",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Chests & Commodes, Sideboards & Credenzas","cabinets | chests-commodes | sideboards","Alan Tanksley, Inc.",212.481.8454,atanksley@alantanksley.com,"Thanks for confirming that Jan. ","Art Deco | Collectible Design | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1611168540,1734526437,15055,1,Approved,208.80.36.98,0,0,1,-OTENoWlLIsm536Z0IjK,15055,1,17090,info@kabinethubert.com
+159043,2197,415177,1750452396,"Leila Heller Gallery",3,"3-D Incident, 2007","Tony  Cragg","Fine Art",fine-art,Sculpture,sculpture,Abstract,abstract,"Sue Berman",NULL,sue@zamkow.net," I would like to request the price for this listing.",Contemporary,"I would like to request the price for this listing.",0,0,0,1,inquire,,0,1669916006,1739426981,56216,0,Approved,136.49.20.244,0,0,1,-OTE4yyu55klX_WaHCxH,56216,1,42584,ella@leilaheller.com
+159042,713,276753,1750448685,"Kabinet Hubert",3,"Lucien Rollin Commode with Rosewood Marquetry and Red Marble Top, France, 1945","Lucien  Rollin",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Chests & Commodes, Sideboards & Credenzas","cabinets | chests-commodes | sideboards","Kabinet Hubert",31.6.26085121,info@kabinethubert.com,"Hello,
+
+Correct, the Fedex tracking number is 882175157440.
+You can track the shipment here: https://www.fedex.com/fedextrack/?trknbr=882175157440&trkqual=2460847000~882175157440~FX
+
+The shipment was picked up today and estimated delivery date is June 27th.
+Please note this delivery date is subject to change/unforeseen delays.
+We submitted as much customs information as possible in advance. Fedex may contact you directly in case they require any additional information.
+
+Best regards,
+Jan
+
+KABINET HUBERT
+Jelle Zijlstraweg 238
+1689 ZX Zwaag
+The Netherlands
+
++31 6 26 08 51 21
+info@kabinethubert.com
+www.kabinethubert.com","Art Deco | Collectible Design | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1611168540,1734526437,17090,1,Approved,77.161.242.208,0,0,1,-OTDroi4n66-0pPNZ04H,17090,1,15055,atanksley@alantanksley.com
+159041,688,105719,1750446980,"t brown studio",3,"Oversized Wood Frame Mirror",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"sebastian  zuchowicki",NULL,sz@sebastianzuchowicki.com,"Hi Cheryl, great thank you! We will keep you updated on how our client would like to proceed asap","Contemporary | Modern"," ",1,0,0,1,inquire,,1,1537805672,1738132362,40273,1,Approved,74.72.158.15,0,0,1,-OTDlJWLTytbE-bWGvhe,40273,1,16692,shop@tbrownstudio.com
+159040,717,89403,1750439656,ILIAD,3,"French Modernist Inspired Desk","  ILIAD DESIGN",Furniture,furniture,Tables,tables,"Desks & Writing Tables",desks-secretaries,"Allison Nassim",NULL,allison@markhampton.com," I would like to request the trade price for this listing.","Art Deco | Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1514223847,1663852193,56366,1,Approved,72.227.179.161,0,0,1,-OTDKMwWm6_4fiL8HAV3,56366,1,17153,info@iliadny.com
+159039,893,562521,1750439628,"Wick Antiques LTD",2,"A Regency rosewood six drawer library table by Gillows","  Gillows of Lancaster & London",Furniture,furniture,Tables,tables,"Center Tables, Side Tables, Other","center-tables | side-tables | other","Allison Nassim",NULL,allison@markhampton.com," I would like to request the trade price for this listing.","Regency | Traditional","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1737542704,1737542704,56366,1,Approved,72.227.179.161,0,0,1,-OTDKGISqA5clFBJr8xT,56366,1,19467,charles@wickantiques.co.uk
+159038,447,585931,1750439541,"Stamford Modern",3,"Basket Weave Credenza by Edward Wormley in Mahogany, C. 1960s","Edward  Wormley",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"Allison Nassim",NULL,allison@markhampton.com," I would like to request the trade price for this listing.","Mid Century | Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1747913589,1747913589,56366,1,Approved,72.227.179.161,0,0,1,-OTDJwIDZNvIKk-nuBF9,56366,1,10960,info@stamfordmodern.com
+159037,716,397002,1750438586,BAC,3,"Pair of Petite Vases in Bronze by Just Andersen","Just  Andersen","Decorative Arts",decorative-arts,Objects,decorative-objects,"Vases, Jars, & Urns",vases-jars-urns,"Bruce Fox Design",312.464.0077,info@brucefoxdesign.com," Is it possible to take these out on loan?","Art Deco | Modern | Scandinavian Modern"," ",0,0,0,1,inquire,,0,1663858497,1664443489,16819,1,Approved,96.92.193.133,0,0,1,-OTDGI6bPvQXSBDk0BTe,16819,1,17147,gallery@gallerybac.com
+159036,713,276753,1750434009,"Kabinet Hubert",3,"Lucien Rollin Commode with Rosewood Marquetry and Red Marble Top, France, 1945","Lucien  Rollin",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Chests & Commodes, Sideboards & Credenzas","cabinets | chests-commodes | sideboards","Alan Tanksley, Inc.",212.481.8454,atanksley@alantanksley.com,"Thank you. Can you please advise when we'll receive tracking on this? We've just received something via FedEx: https://www.fedex.com/fedextrack/?trknbr=882175157440&trkqual=2460847000~882175157440~FX","Art Deco | Collectible Design | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1611168540,1734526437,15055,1,Approved,208.80.36.98,0,0,1,-OTCzpQEGyYUi7h6HdYH,15055,1,17090,info@kabinethubert.com
+159035,713,276753,1750434000,"Kabinet Hubert",3,"Lucien Rollin Commode with Rosewood Marquetry and Red Marble Top, France, 1945","Lucien  Rollin",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Chests & Commodes, Sideboards & Credenzas","cabinets | chests-commodes | sideboards","Alan Tanksley, Inc.",212.481.8454,atanksley@alantanksley.com,-NaN-,"Art Deco | Collectible Design | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1611168540,1734526437,15055,1,Approved,208.80.36.98,0,0,1,-OTCznc_ADzKjAMyqm8l,15055,1,17090,info@kabinethubert.com
+159034,2181,575757,1750432242,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"Hello!  Any chance you can send to my email directly at     aw@studionda.com   ?","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,56369,0,Approved,100.33.12.19,0,0,1,-OTCt4sjMPZMqztAyK9Q,56369,1,40961,info@vintarred.it
+159033,2181,575757,1750432027,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,"Hi April
+I sent you the regular commercial invoice, can you confirm this?
+Best regards 
+Armando ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,109.54.86.123,0,0,1,-OTCsGiEfXodTH6_jqo4,40961,1,56369,aw@studionda.com
+159032,582,475340,1750430433,"L&#039;Art De Vivre",3,"Exceptional Monumental Pair of Max Ingrand Sconces for Fontana Arte","Max  Ingrand",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"L&#039;Art De Vivre",212.734.3510,cfuller174@aol.com,"Dear Olivia,
+Thank you for looking at this important pair of Max Ingrand scconces. We sent a memo with images and quote to your email earlier today . Please let us know if you need anything further.
+
+With best wishes,
+
+Patricia Fuller
+L'ART DE VIVRE 
+978 Lexington Avenue
+New York, N.Y. 10021
+212 734 3510","Collectible Design | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1697109981,1744882518,14277,1,Approved,73.143.78.137,0,0,1,-OTCmBHUvdlh_5LUxEU_,14277,1,55337,olivia@bos-studio.com
+159031,713,594578,1750430252,"Kabinet Hubert",3,"Sculptural Pair of Scandinavian Modern Teak Armchairs with Runner Legs, 1950s",,Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","Kabinet Hubert",31.6.26085121,info@kabinethubert.com,"Hi Allison,
+
+Thank you for your message. 
+We have this pair listed at 9.500 EUR / apr. 10,950 USD retail.
+Your trade price would be 7.200 EUR / apr. 8,280 USD.
+
+Please don't hesitate to contact us if you have any additional questions.
+
+Best regards,
+Jan
+
+KABINET HUBERT
+Jelle Zijlstraweg 238
+1689 ZX Zwaag
+The Netherlands
+
++31 6 26 08 51 21
+info@kabinethubert.com
+www.kabinethubert.com
+
+","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,trade,1,1750324686,1750324686,17090,1,Approved,77.161.242.208,0,0,1,-OTClVXlvvItoId1xykk,17090,1,7660,allison@allisonbabcockdesign.com
+159030,713,594578,1750428407,"Kabinet Hubert",3,"Sculptural Pair of Scandinavian Modern Teak Armchairs with Runner Legs, 1950s",,Furniture,furniture,Seating,seating,"Armchairs, Lounge Chairs","armchairs | lounge-chairs","allison Babcock",NULL,allison@allisonbabcockdesign.com," I would like to request the trade price for this listing.","Mid Century | Modern | Scandinavian Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,trade,0,1750324686,1750324686,7660,1,Approved,69.123.197.14,0,0,1,-OTCeTACcz6O3UHS6PYx,7660,1,17090,info@kabinethubert.com
+159029,582,475340,1750416591,"L&#039;Art De Vivre",3,"Exceptional Monumental Pair of Max Ingrand Sconces for Fontana Arte","Max  Ingrand",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Olivia Menko",NULL,olivia@bos-studio.com," I would like to request the trade price for this listing please - thank you! 
+","Collectible Design | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,0,1697109981,1744882518,55337,0,Approved,193.115.252.58,0,0,1,-OTBxOOGqN16kX9ZNrvg,55337,1,14277,cfuller174@aol.com
+159028,872,466660,1750404203,"H. Gallery",3,"Dutch Arts &amp;amp; Crafts Chairs by W. Kuyper, The Netherlands 1920s","W.  Kuyper",Furniture,furniture,Seating,seating,"Dining Chairs, Side Chairs, Other","dining-chairs | side-chairs | other","Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Hi, following up! Thanks! ","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1693309838,1693878174,36673,1,Approved,66.81.160.155,0,0,1,-OTBD7qnMxOyQtT_Q5Aq,36673,1,19285,enquiries@hgallery.com
+159027,2181,575757,1750400709,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,"Hi April
+The shipping quote includes, all risks insurance, professional packaging in wooden crate with internal protections in bubble wraps and polistyrene, shipping method “by sea” delivery method “front door building “, the shipment will be made by our trusted shipper Ormesani srl which is a Company very efficient and professional, this quote doesn’t includes custom duties, they are low for Midcentury furniture.
+It’s a beautiful Paolo Buffa Sideboard in very good conditions as it has been recently restored by an expert craftsman.
+I remain at your disposal 
+Best Regards 
+Armando ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,95.75.52.143,0,0,1,-OTB-noYmU1ETdmUn72F,40961,1,56369,aw@studionda.com
+159026,2181,575757,1750398126,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,"Hi April
+I send you my bank details necessary for you to make the bank transfer.
+Recipient
+Vintarred di Catellani Armando 
+Bank
+Credit Agricole 
+IBAN
+IT68W0623065990000035820939
+BIC
+CRPPIT2P433
+For your safety i will keep you updated upon receipt of the bank transfer.
+I remain at your disposal.
+Best Regards 
+Armando ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,95.75.52.143,0,0,1,-OTAqxFKpwLfYASkQ9Z2,40961,1,56369,aw@studionda.com
+159025,2181,575757,1750397156,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,-NaN-,"Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,95.75.52.143,0,0,1,-OTAnFPFZb3ARwKHHntB,40961,1,56369,aw@studionda.com
+159024,715,549524,1750391620,"Navona Antiques",2,"Tuscan folding chairs - Circa 1860",,Furniture,furniture,Seating,seating,"Armchairs, Side Chairs, Other","armchairs | side-chairs | other","Navona Antiques",310.854.1886,info@navonaantiques.com,"Hello ,
+
+The trade net is $ 6,400 for the pair . Let me know if you need additional information . 
+
+Thanks
+Matt",Traditional,"I would like to request the price for this listing.",0,0,0,1,inquire,,1,1730284649,1746091338,17098,1,Approved,76.80.130.58,0,0,1,-OTAT7viA0GtY-izeZv6,17098,1,56374,davidtollefson13@gmail.com
+159023,716,541235,1750388361,BAC,3,"Studio Table Lamp by Stig Lindberg","  Gustavsberg Studio",Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"Tal Recanati",9178464073,talrecanati@gmail.com," I would like to request the price for this listing.","Brutalist | Modern | Scandinavian Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1727262995,1727262995,0,0,Approved,24.193.37.145,0,0,1,-OTAGhNlL64dhi_d5MzS,Anonym6854ce88a24d7,0,17147,gallery@gallerybac.com
+159022,715,549524,1750378782,"Navona Antiques",2,"Tuscan folding chairs - Circa 1860",,Furniture,furniture,Seating,seating,"Armchairs, Side Chairs, Other","armchairs | side-chairs | other","David Tollefson",NULL,davidtollefson13@gmail.com," I would like to request the price for this listing.",Traditional,"I would like to request the price for this listing.",0,0,0,1,inquire,,0,1730284649,1746091338,56374,0,Approved,172.58.210.82,0,0,1,-OT9h9dLXmXvb0FGwgpN,56374,1,17098,info@navonaantiques.com
+159021,1610,284047,1750377348,Twentieth,3,"Icon Bar &amp;amp; Counter Stool","  Phase Design",Furniture,furniture,Seating,seating,Stools,stools,Twentieth,323.904.1200,sales@twentieth.net,"please see fabric options on the attachment - click through on the type to see the fabric images and specs. It looks like leather has a minimum order that is quite large, so that's probably not an option unless you want to purchase the minimum. ","Contemporary | Modern"," ",0,0,0,1,inquire,,1,1614797074,1696498629,28311,1,Approved,75.12.17.150,0,0,1,-OT9bfiJUDJQzSkD90Z_,28311,1,52968,janetbellinc@gmail.com
+159020,1610,284047,1750377161,Twentieth,3,"Icon Bar &amp;amp; Counter Stool","  Phase Design",Furniture,furniture,Seating,seating,Stools,stools,Twentieth,323.904.1200,sales@twentieth.net,-NaN-,"Contemporary | Modern"," ",0,0,0,1,inquire,,1,1614797074,1696498629,28311,1,Approved,75.12.17.150,0,0,1,-OT9ayyB2Ze1Txs17Xyb,28311,1,52968,janetbellinc@gmail.com
+159019,2181,575757,1750374975,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"Ok!  Please mark delivery address as follows:
+
+David Beller
+895 Park Avenue
+#4A
+New York, NY 10075
+
+Let me know if you need any additional information.
+
+Thank you!
+
+April ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,56369,0,Approved,107.77.226.49,0,0,1,-OT9TcqMaa0z5ggNeAHT,56369,1,40961,info@vintarred.it
+159018,695,172233,1750374499,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"NYC Modern",347.423.6446,NYCModern1@gmail.com,"Hi Mary,
+Yes  Thank You,
+Vanessa","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16793,1,Approved,174.204.129.51,0,0,1,-OT9RosqPqs7qkjLAox-,16793,1,16819,info@brucefoxdesign.com
+159017,2181,378949,1750370558,Vintarred,3,"French Art Deco Maple Coffee Table, 1940s",,Furniture,furniture,Tables,tables,"Coffee Tables",coffee-tables,Vintarred,39.335.522.4623,info@vintarred.it,"Hello Hemma
+Thank you.
+I remain at your disposal
+Best Regards 
+Armando ","Art Deco | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,Sale,1,1656585989,1718180782,40961,1,Approved,95.75.52.143,0,0,1,-OT9CmqcNTLP-0WXv7wi,40961,1,52128,emma@emmaastang.com
+159016,2242,456884,1750369384,"Found Collectibles",3,"Brazilian Modern Table in Hardwood by Geraldo de Barros for Hobjeto Brazil 1972","Geraldo  de Barros",Furniture,furniture,Tables,tables,"Dining Tables",dining-tables,"Sara Bengur Interiors",212.226.8796,info@sarabengur.com," Do you have a photo of this table with the middle leaf in place?  Thank you! Sara","Brazilian Modern | Mid Century | Modern","I would like to request more details about the condition of this listing.  ",0,0,0,1,inquire,Sale,0,1692708601,1738132368,19877,1,Approved,209.150.58.214,0,0,1,-OT98ImscE3GEbjBvDmv,19877,1,48587,Rod@foundcollectibles.com
+159015,2181,575757,1750368616,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,"Hi April
+I will have to issue you the regular commercial invoice, for this you will have to send me the recipient’s details, only when you have received the invoice will you be able to make the payment with bank transfer.
+Best Regards 
+Armando ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,95.75.52.143,0,0,1,-OT95NN7TgWEbGcaSIKO,40961,1,56369,aw@studionda.com
+159014,968,158796,1750368114,"Buckley LLC",3,"Rare Pair of Brutalist Panels or Doors MCM","  Billy Joe Mccarroll and David Gillespe","Decorative Arts",decorative-arts,"Garden & Architectural",garden-architectural,"Doors, Gates, & Windows",doors-gates-windows,"Buckley LLC",619.977.6505,buckleyartllc@gmail.com,"I sent an email from Buckley LLC last night. Forgot to stick to InCollect.
+Sorry","Brutalist | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1551128963,1744879530,20589,1,Approved,68.107.102.183,0,0,1,-OT93T2KvQR9g9mrzYnU,20589,1,50336,brad@goldcasters.com
+159013,2181,575757,1750367171,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"This is wonderful - Thank you!  My client would like to move forward. Are you able to share a formal invoice or payment link that I can share with my client, ideally showing the net price and the shipping information?  Either here on the InCollect platform or at my email - aw@studionda.com","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,56369,0,Approved,107.77.226.49,0,0,1,-OT9-rp2R0tValByO5p8,56369,1,40961,info@vintarred.it
+159012,803,169528,1750365959,"Antiques + Art + Design",3,"Offered by ANTIQUES &amp;amp; FINE ART PUBLISHING","John Whorf","Decorative Arts",decorative-arts,Books,books,Other,other,"Lorin Bachmann",NULL,lorinbachmann@gmail.com," I would like to request the price for this listing.","Mid Century | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1557181370,1667472182,56373,0,Approved,199.87.130.129,0,0,1,-OT8wEejCpQ78I4Dg0jG,56373,1,18322,trade@incollect.com
+159011,2181,575757,1750365747,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,"Hello April
+I can offer you a special price including the shipment of 13600 dollars.
+This quote includes, all risks insurance, professional packaging in wooden crate with internal protections in bubble wraps and polystyrene, shipping method “by sea”, shipping delivery”front door building “, the shipment will be Made by our trusted shipper Ormesani SRL which is a Company very efficient and professional, this quote doesn’t includes custom duties, they are low for Midcentury furniture.
+It’s a beautiful Paolo Buffa Sideboard of great executive quality, in very good conditions as it has been recently restored by an expert craftsman.
+I remain at your disposal for any clarification.
+Best Regards 
+Armando 
+","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,95.75.52.143,0,0,1,-OT8vQrJFevH1MOvv8Iw,40961,1,56369,aw@studionda.com
+159010,803,197945,1750365021,"Antiques + Art + Design",2,"Offered by PETER H. EATON AMERICAN ANTIQUES","William Jennys","Fine Art",fine-art,Paintings,paintings,Portrait,portrait,"Robert Bunkin","347 979-4009",rbunkin@mail.com," I would like to request the price for this listing, as well as condition.","Folk Art","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1579024904,1666263665,0,0,Approved,98.113.234.44,0,0,1,-OT8sf4UN8Q9uLQlxLhF,Anonym6854735c80e33,0,18322,trade@incollect.com
+159009,1826,582434,1750361418,"Phoenix Gallery",3,"CSW22 Rock Crystal Sconces By Phoenix","  Phoenix Gallery Bespoke",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Ted Neal",NULL,ted@planetadesigngroup.com,"Finish is satin nickel, sorry about that.  Thanks Ted","Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,1,1746088702,1746088702,47313,1,Approved,76.19.112.166,0,0,1,-OT8ev0irAfC08Ayr9V0,47313,1,31484,phoenixgallery219@gmail.com
+159008,1826,582434,1750360678,"Phoenix Gallery",3,"CSW22 Rock Crystal Sconces By Phoenix","  Phoenix Gallery Bespoke",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Ted Neal",NULL,ted@planetadesigngroup.com,"Can you provide a trade quote for this pair of sconces?  Finish is polished nickel.  Can you also send us finish samples of the glass & metal?  Are they UL listed?  Thanks Ted","Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1746088702,1746088702,47313,1,Approved,76.19.112.166,0,0,1,-OT8c5FuRcipctbzqtcb,47313,1,31484,phoenixgallery219@gmail.com
+159007,510,385325,1750360276,Donzella,3,"Araba Fenice Sculpture by Toni Zuccheri for Venini","Toni  Zuccheri","Decorative Arts",decorative-arts,Objects,decorative-objects,Sculpture,sculpture,"Lisa Becker",NULL,lisabeckerfl@gmail.com," I would like to request the price for this listing.
+Looking at this for a client.
+Thank you,
+lisa becker
+Becker Associates","Art Glass | Collectible Design | Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1668699616,1669288444,43309,0,Approved,170.250.240.177,0,0,1,-OT8aZ0qmMenDM863KD9,43309,1,12783,info@donzella.com
+159006,872,590547,1750359393,"H. Gallery",3,"Low Brutalist Coffee Table with Slate Tabletop, Spain 1970s",,Furniture,furniture,Tables,tables,"Coffee Tables",coffee-tables,"Claire Levine-Kay",5127064303,levine-kay@hsuoffice.com," I would like to request the price for this listing. Do you offer a designer discount? ","Brutalist | Mid Century | Modern","I would like to request the price for this listing.",1,0,0,1,inquire,new,0,1749115262,1749115262,0,0,Approved,24.155.144.194,0,0,1,-OT8YBsZqh6lAzFk-T2i,Anonym68545d5febb9e,0,19285,enquiries@hgallery.com
+159005,2181,378949,1750356241,Vintarred,3,"French Art Deco Maple Coffee Table, 1940s",,Furniture,furniture,Tables,tables,"Coffee Tables",coffee-tables,"Emma Stang",NULL,emma@emmaastang.com,"Thank you so much Armando! I'll let you know if my client wants to move ahead","Art Deco | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,Sale,1,1656585989,1718180782,52128,1,Approved,184.75.106.3,0,0,1,-OT8MA0R7hqHRKYUSc4T,52128,1,40961,info@vintarred.it
+159004,2181,575757,1750355768,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"Hi Armando!  Can you confirm that this item is on hold for us? My client has confirmed that he wants to proceed, asking just to confirm the best net price and your shipping estimate.  Thank you very much! ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,56369,0,Approved,70.19.88.72,0,0,1,-OT8KMsaeoNI1HGfVFfp,56369,1,40961,info@vintarred.it
+159003,2181,575757,1750351506,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"Hi Armando!  Thank you very much. Delivery address as follows:   
+
+David Beller 
+895 Park Avenue
+Apt. #4A 
+New York NY 10075
+
+What is the best net price you can extend?  My client is stressed about international tariffs, hoping we can find a way to make the price appealing so that we can secure the sale of this wonderful piece. ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,56369,0,Approved,70.19.88.72,0,0,1,-OT846Dr5JB4YZHNOALQ,56369,1,40961,info@vintarred.it
+159002,636,95225,1750350448,"Lerebours Antiques",3,"Custom Ebonized Brass-Banded Console on Tapered Legs","  Lerebours Bespoke",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"Lerebours Antiques",212.308.2275,Cathy@lereboursantiques.com,"Hi Michael-
+
+The trade price on this console is $4320. Please note that this is a custom console and we do not have one currently available. The lead time is 8 to 12 weeks.
+
+Best,
+Cathy Lerebours","Contemporary | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1517244881,1724138981,15678,1,Approved,70.23.51.115,0,0,1,-OT803gjcnEyut2t-An3,15678,1,13568,maiduss@aiduss.com
+159001,2181,575757,1750349608,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,Vintarred,39.335.522.4623,info@vintarred.it,"Hello April,
+
+I'm glad you reached out to me directly on Incollect. I confirm the price for the trader, and if you send me the final destination address, I will provide you with the best possible quote.
+
+I remain at your disposal for any clarification.
+Best regards,
+Armando","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,40961,1,Approved,87.21.38.186,0,0,1,-OT7xs7nbM6BJiiSeiuV,40961,1,56369,aw@studionda.com
+159000,2181,575757,1750348450,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"Also, I was looking at this item yesterday on the Chairish platform and requested a hold through one of the Chairish representatives for this sideboard for our client David Beller. I am happy to connect directly with you here on InCollect if that is easier. ","Mid Century | Modern",,1,1,9800,1,make-offer,,1,1743065220,1743065220,56369,0,Approved,70.19.88.72,0,0,1,-OT7tRnV3-aG4lgf6lgo,56369,1,40961,info@vintarred.it
+158999,2181,575757,1750347735,Vintarred,3,"Italian Mid Century Sideboard designed By Paolo Buffa, 1950s","Paolo  Buffa",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Sideboards & Credenzas",sideboards,"April Watters",NULL,aw@studionda.com,"Hello!  We are very interested in this piece.  Can you confirm the trade price?","Mid Century | Modern",,1,1,9800,1,make-offer,,0,1743065220,1743065220,56369,0,Approved,70.19.88.72,0,0,1,-OT7qiUiA72o6QBqpTDp,56369,1,40961,info@vintarred.it
+158998,632,588835,1750347108,Lookmodern,3,"Set of Eight Scandinavian Modern Teak Dining Chairs Designe by Otto Moller","Nils Otto  Moller",Furniture,furniture,Seating,seating,"Dining Chairs",dining-chairs,Lookmodern,503.593.9418,contactlookmodern@gmail.com,"Hey Melissa, If you can send a check in, we can do $6565.
+If you want to use a card, we would have to do $6930.
+If you send me the shipping address, I can put in for a shipping quote.","Modern | Scandinavian Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,1,1748509098,1748509098,15519,1,Approved,76.115.138.1,0,0,1,-OT7oKmXNREOLYfJPWy9,15519,1,21615,melissa@melissapinto.info
+158997,524,345213,1750345780,"Danish Modern LA",3,"Georg Jensen Sculpted Teak &amp;amp; Boucle Wool Rocking Chair for Kubus Møbler","Søren Georg Jensen",Furniture,furniture,Seating,seating,"Rocking Chairs",rocking-chairs,"Sara Bengur Interiors",212.226.8796,info@sarabengur.com,"Hi there, could you please place this on hold for us and provide a shipping quote to Bronx, NY 10474? Curbside is fine, no white glove.","Mid Century | Modern | Scandinavian Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,0,1643248948,1643248948,19877,1,Approved,209.150.58.214,0,0,1,-OT7jG2ogfYIzuBCy5gJ,19877,1,13288,danishmodernla@gmail.com
+158996,695,172233,1750345468,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"Bruce Fox Design",312.464.0077,info@brucefoxdesign.com,"Hi Vanessa, 
+
+the new dimensions 12" x 12" work better for us! 
+
+Please go ahead and send out. ","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16819,1,Approved,96.92.193.133,0,0,1,-OT7i4HWCzSsua79xfR5,16819,1,16793,NYCModern1@gmail.com
+158995,870,559198,1750343736,"The Gallery at 200 Lex ",3,"PAIR OF OWL CHAIRS","Tony  Paul",Furniture,furniture,Seating,seating,"Dining Chairs, Side Chairs, Other","dining-chairs | side-chairs | other","The Gallery at 200 Lex ",646.293.6633,thegallery@nydc.com,"Hi Tacho,
+The dealer is willing to split the pair.
+$1210 list / $1100 net each
+If you would like to proceed with this purchase, please email the billing and delivery addresses to: stephanie@nydc.com
+Thank you, 
+Stephanie (on behalf of Claudia).","Collectible Design | Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1735636361,1735636361,19254,1,Approved,216.187.41.194,0,0,1,-OT7bTX9Jxmd_5HJlhhe,19254,1,36673,tacho.elizondo@gmail.com
+158994,787,198032,1750342776,Appleton,3,"Folding Floor Screen 1980s",,Furniture,furniture,"Beds, Screens & Other",beds-screens-other,Screens,screens,Appleton,207.691.6077,appletonarts@gmail.com,"Were you able to price your screen?","Hollywood Regency | Mid Century | Modern","I would like to request the price for this listing.",0,0,0,1,inquire,,1,1579025779,1724138972,18185,1,Approved,67.253.2.49,0,0,1,-OT7Yo0JMhjWSQh4ne4g,18185,1,Anonym67eea8f80b1e8,helenaolmscheid@gmail.com
+158993,990,480614,1750339349,"Kerry Joyce Atelier",3,"saxon mirror","Kerry  Joyce",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Kerry Joyce Atelier",323.660.4442,kerry@kerryjoyce.com,"Dear Sebastian
+We appreciate your interest in the Saxon Mirror..
+
+Before we can send the “Designer-Net-Pricing;” could you please confirm you are an Interior Designer and provide a copy of your “Resale Certificate”?  As this information is required to submit a “To-The-Trade-Only” estimate.  
+
+Please email requested information to:   julie@kerryjoyceatelier.com 
+
+We look forward to hearing from you,
+Julie H.
+julie@kerryjoyceatelier.com 
+Kerry Joyce Atelier
+www.kerryjoyce.com","Contemporary | Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,1,1699615575,1700160231,21044,1,Approved,76.81.21.242,0,0,1,-OT7LjUhXG-EZHOOmdC2,21044,1,40273,sz@sebastianzuchowicki.com
+158992,666,256529,1750332494,"Galerie Andre Hayat",3,"Spectacular pair of Neo classic French 40s consoles",,Furniture,furniture,Tables,tables,"Console & Pier Tables, Side Tables","console-pier-tables | side-tables","Andrew Barker",NULL,andrew@srgambrel.com," I would like to request the trade price for this listing.","Hollywood Regency | Mid Century | Revival","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1603284786,1603284786,41356,1,Approved,74.72.235.181,0,0,1,-OT6w_Ja-HRL3sKHuIdV,41356,1,16365,contact@galerieandrehayat.com
+158991,666,249748,1750332445,"Galerie Andre Hayat",3,"Sue et Mare pair of spectacular pair of carved sycamore and marble console","  Sue et Mare",Furniture,furniture,Tables,tables,"Console & Pier Tables, Side Tables","console-pier-tables | side-tables","Andrew Barker",NULL,andrew@srgambrel.com," I would like to request the trade price for this listing.","Art Deco | Art Nouveau | Collectible Design","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1601459911,1646292271,41356,1,Approved,74.72.235.181,0,0,1,-OT6wOSwnUMkBJSTvOVK,41356,1,16365,contact@galerieandrehayat.com
+158990,666,258020,1750332422,"Galerie Andre Hayat",3,"Andre Arbus pair of mahogany Neo classic French 40&amp;#039;s console","André  Arbus",Furniture,furniture,Tables,tables,"Console & Pier Tables",console-pier-tables,"Andrew Barker",NULL,andrew@srgambrel.com," I would like to request the trade price for this listing.","Art Deco | Mid Century | Revival","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1603884892,1603884892,41356,1,Approved,74.72.235.181,0,0,1,-OT6wJXfzcbTkFmHunBx,41356,1,16365,contact@galerieandrehayat.com
+158989,632,588835,1750301959,Lookmodern,3,"Set of Eight Scandinavian Modern Teak Dining Chairs Designe by Otto Moller","Nils Otto  Moller",Furniture,furniture,Seating,seating,"Dining Chairs",dining-chairs,"Melissa Pinto",NULL,melissa@melissapinto.info,"Hi I am wondering what is your best price for this chairs and also if you can arrange delivery to the East Coast. I would like to present to my clients this week. Lmk Thanks","Modern | Scandinavian Modern","I would like to request the price for this listing.",1,0,0,1,inquire,new,0,1748509098,1748509098,21615,0,Approved,76.94.58.106,0,0,1,-OT575yHzNfLEihV1YqH,21615,1,15519,contactlookmodern@gmail.com
+158988,543,263373,1750295604,Bloomberry,3,"Carl Malmsten &amp;#039;Ulla&amp;#039; three-seater sofa","Carl  Malmsten",Furniture,furniture,Seating,seating,"Sofas, Settees & Sectionals",sofas,"Nancy Steiner",NULL,nancyjsteiner@gmail.com," I would like to request the price for this listing. 
+Is the shipping included? I live in Santa Monica California. Thank you","Mid Century | Modern | Scandinavian Modern","I would like to request the price for this listing.",0,0,0,0,inquire,,0,1606317492,1606901700,13949,0,Approved,47.154.24.145,0,0,1,-OT4jrYa7uc3SbL9CWdn,13949,1,13768,patricia@bloomberry.eu
+158987,787,429191,1750288272,Appleton,3,"Genaro Alvarez","Genaro  Alvarez","Decorative Arts",decorative-arts,"Wall Art",wall-art,Other,other,Appleton,207.691.6077,appletonarts@gmail.com,"It like all artworks or furniture depends on what it is that you have.
+I am happy to take a look.","Mid Century | Outsider Art | Studio Craft"," ",0,0,0,1,inquire,,1,1676663193,1676663193,18185,1,Approved,174.196.204.121,0,0,1,-OT4IsgvcJtAMTVlxGAN,18185,1,Anonym685345599cea1,jogibbonsjewels@gmail.com
+158986,872,466660,1750288258,"H. Gallery",3,"Dutch Arts &amp;amp; Crafts Chairs by W. Kuyper, The Netherlands 1920s","W.  Kuyper",Furniture,furniture,Seating,seating,"Dining Chairs, Side Chairs, Other","dining-chairs | side-chairs | other","Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Hi, how many of theses chairs do you have available? Could I place two on hold? ","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1693309838,1693878174,36673,1,Approved,185.134.171.102,0,0,1,-OT4IpGCp86HCTAFg-Tp,36673,1,19285,enquiries@hgallery.com
+158985,1792,544933,1750287781,"Modern Hill Furniture Warehouse",3,"George Mulhauser for Plycraft MCM Walnut Sultana Swivel Chairs - Set of 4","George  Mulhauser",Furniture,furniture,Seating,seating,"Dining Chairs, Swivel Chairs","dining-chairs | swivel-chairs","Tacho Elizondo",NULL,tacho.elizondo@gmail.com," I would like to request the trade price for this listing. Hi, would I be able to get only 1 or 2 chairs?","Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,0,1732105370,1732105370,36673,1,Approved,185.134.171.102,0,0,1,-OT4H-sDCkC14Dgi5yEe,36673,1,30600,sales@modernhillfurniture.com
+158984,787,429191,1750287706,Appleton,3,"Genaro Alvarez","Genaro  Alvarez","Decorative Arts",decorative-arts,"Wall Art",wall-art,Other,other,"Jo-Ann C Gibbons",7787547650,jogibbonsjewels@gmail.com," How do we find out the value of Genaro's pieces?  We happen to have a gorgeous piece of his work and would like to know the value.","Mid Century | Outsider Art | Studio Craft"," ",0,0,0,1,inquire,,0,1676663193,1676663193,0,0,Approved,24.70.102.70,0,0,1,-OT4GigavbaCNVMaKFnL,Anonym685345599cea1,0,18185,appletonarts@gmail.com
+158983,870,559198,1750287022,"The Gallery at 200 Lex ",3,"PAIR OF OWL CHAIRS","Tony  Paul",Furniture,furniture,Seating,seating,"Dining Chairs, Side Chairs, Other","dining-chairs | side-chairs | other","Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"lastly, I wanted to ask, would you be able to split the pair?","Collectible Design | Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1735636361,1735636361,36673,1,Approved,185.134.171.102,0,0,1,-OT4E6_VRaKCQyw1wldt,36673,1,19254,thegallery@nydc.com
+158982,870,559198,1750286992,"The Gallery at 200 Lex ",3,"PAIR OF OWL CHAIRS","Tony  Paul",Furniture,furniture,Seating,seating,"Dining Chairs, Side Chairs, Other","dining-chairs | side-chairs | other","Tacho Elizondo",NULL,tacho.elizondo@gmail.com,"Hi Claudia, it is hard for me to keep in track of my emails with a lot of different furniture pieces I am considering. That being said I am very interested in these and I want to show them to my client when I return. Can you keep them on hold till the end of next week?","Collectible Design | Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1735636361,1735636361,36673,1,Approved,185.134.171.102,0,0,1,-OT4E-GVGYZ3LpfJiwV0,36673,1,19254,thegallery@nydc.com
+158981,718,340639,1750286717,"Twenty First Gallery",3,"BLACK SUN MIRROR","Beatrice  Serre",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Geoffrey De Sousa",NULL,geoffrey@geoffreydesousa.com," I would like to request the trade price for this listing.","Collectible Design | Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,0,inquire,,0,1640218531,1640218531,4895,1,Approved,172.1.58.221,0,0,1,-OT4Cxol5jSoIDlBi59-,4895,1,17183,info@21stgallery.com
+158980,2076,364154,1750281383,"Metro Retro Furniture",3,"Drexel Passage Campaign Pecan Dresser","  Drexel (Drexel Heritage Furniture)",Furniture,furniture,"Storage & Case Pieces",case-pieces,"Cabinets, Dressers","cabinets | dressers","Alan Tanksley, Inc.",212.481.8454,atanksley@alantanksley.com,"We can release the hold, the client has decided to go in a different direction. Thank you!","Mid Century | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,1,inquire,,1,1649930362,1680264811,15055,1,Approved,208.80.36.98,0,0,1,-OT3tbYAtXMFFqEAVxhG,15055,1,36450,Joe@metroretrofurniture.com
+158979,690,588473,1750280227,"Newel Antique Gallery",3,"&amp;quot;Catarina&amp;quot; Rectangular Biomorphic Dining Table",,Furniture,furniture,Tables,tables,"Dining Tables",dining-tables,"Janet Driscoll",NULL,janet@josecarlinodesign.com,"I would like to request the trade price for this listing and place a hold. Thank you!",Modern,"I would like to request the trade price for this listing.",1,0,0,1,inquire,trade,0,1749712591,1749732330,17673,1,Approved,174.103.187.128,0,0,1,-OT3pBng5AQroMlnwdzZ,17673,1,16727,Incollect@Newel.com
+158978,983,593973,1750280171,"Maison Rapin",3,"Paire d&amp;#039;appliques","Attilio  Maggia Rosa",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Janet Driscoll",NULL,janet@josecarlinodesign.com,"I would like to request dimensions for this listing as well. Thanks!","Contemporary | Modern","I would like to request dimensions for this listing.",0,0,0,1,inquire,trade,0,1749711173,1749739925,17673,1,Approved,174.103.187.128,0,0,1,-OT3oz9PBgBFi9lYkg8H,17673,1,20941,alice@maison-rapin.com
+158977,983,593973,1750279575,"Maison Rapin",3,"Paire d&amp;#039;appliques","Attilio  Maggia Rosa",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Janet Driscoll",NULL,janet@josecarlinodesign.com,"Can you please hold this while we present to our client? Sidemark Kovas. Thank you!","Contemporary | Modern"," ",1,0,0,1,inquire,trade,0,1749711173,1749739925,17673,1,Approved,174.103.187.128,0,0,1,-OT3mhyXiaMYyltyYbW2,17673,1,20941,alice@maison-rapin.com
+158976,968,158796,1750277728,"Buckley LLC",3,"Rare Pair of Brutalist Panels or Doors MCM","  Billy Joe Mccarroll and David Gillespe","Decorative Arts",decorative-arts,"Garden & Architectural",garden-architectural,"Doors, Gates, & Windows",doors-gates-windows,"Buckley LLC",619.977.6505,buckleyartllc@gmail.com,"Brad,
+You have discovered my marvelous Daniel and Josh. I have worked with Daniel for 20 years.  As I told you, the rug is stored with him in Poway. The tiebacks and the bronze panels are at my home where he coud retrieve them should we make a deal.
+The backs of the panels are unfinished, hence another reason to mont and frame them as doors. For a wall feature, they could simply be hung.
+I would include the handles for you. They are impressive.  Bronze and bakelite, I believe.
+My best price with the inclusion of the handles is $13,000.
+I hope you have been able to peruse the cabinetmanker's drawings. The dimensions are exact.
+They are securely in a cardboard carton. I would trust Daniel to assess if that is adequate for transport safely to you.
+Regards, Mary
+","Brutalist | Mid Century | Modern","I would like to request the trade price for this listing.",1,0,0,1,inquire,,1,1551128963,1744879530,20589,1,Approved,68.107.102.183,0,0,1,-OT3ff3NEJGiX3MhULNt,20589,1,50336,brad@goldcasters.com
+158975,2398,593082,1750276539,"MAI Memorial Antiques & Interiors ",2,"19th Century French Commode with Marble Top",,Furniture,furniture,"Storage & Case Pieces",case-pieces,"Chests & Commodes",chests-commodes,"MAI Memorial Antiques & Interiors ",713.827.8087,onlinesales@maihouston.com,"Hi Linda, Thanks for catching that! It is 33" tall. Do you still want me to place this item on hold?
+Rick","Louis Philippe | Traditional","I would like to request dimensions for this listing.",1,0,0,1,inquire,trade,1,1749712485,1749712485,55565,1,Approved,68.74.207.86,0,0,1,-OT3b7aEqHBYOKnQlzRV,55565,1,41204,linda@lindaleonard.com
+158974,1259,426659,1750276062,"Le Lampade",3,"Italian Brass Mirror by Le Lampade","  Le Lampade",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Claire Chung",NULL,Claire@moniquegibson.com,"Hello, We are interested in purchasing this mirror. Would you be able to send us a video of the mirror, especially on the edges? Please email it to claire@moniquegibson.com","Contemporary | Modern","I would like to request more details about the condition of this listing.  ",1,0,0,0,inquire,,0,1675438002,1675438002,54307,0,Approved,67.254.194.183,0,0,1,-OT3_JNJ69LbTaRmDM3w,54307,1,25687,info@lelampade.com
+158973,688,105719,1750275132,"t brown studio",3,"Oversized Wood Frame Mirror",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"t brown studio",212.255.4899,shop@tbrownstudio.com,"Hello, yes, we can put this on hold for you. 
+Best, 
+Cheryl","Contemporary | Modern"," ",1,0,0,1,inquire,,1,1537805672,1738132362,16692,1,Approved,174.216.246.99,0,0,1,-OT3Wl5UB0emRwGR980Y,16692,1,40273,sz@sebastianzuchowicki.com
+158972,688,105719,1750275008,"t brown studio",3,"Oversized Wood Frame Mirror",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"sebastian  zuchowicki",NULL,sz@sebastianzuchowicki.com," Can you please place a hold on the gesso mirror for us","Contemporary | Modern"," ",1,0,0,1,inquire,,0,1537805672,1738132362,40273,1,Approved,74.72.158.15,0,0,1,-OT3WI5BbBh2rB6XaHoo,40273,1,16692,shop@tbrownstudio.com
+158971,763,579521,1750271914,"Iconic Design Gallery",3,"1980s Biomorphic Side or Coffee Tables, Pair",,Furniture,furniture,Tables,tables,"Coffee Tables, Side Tables","coffee-tables | side-tables","Jennifer Townsend",NULL,jmyoung222@yahoo.com,"Hello,
+Could you please tell me what the cost will be to ship to zip code 71854?
+Kind regards,
+Jennifer",Modern,,0,1,1080,1,make-offer,,0,1744880690,1744880690,49230,0,Approved,170.117.236.95,0,0,1,-OT3KUHjBr8u26XC4yUc,49230,1,17748,iconicdesign@att.net
+158970,2326,591618,1750271781,"Philip Gorrivan Design",3,"A rare collection of wicker bulls heads, France 1950&amp;#039;s  (7) total",,"Decorative Arts",decorative-arts,Objects,decorative-objects,Accessories,accessories,"Philip Gorrivan Design",212.228.8242,info@philipgorrivan.com,"Hi this is Philip, let me know if you want to discuss the bull heads, I can give you a better offer if you're interested they are very rare and special.
+ thanks ",Modern,"I would like to request the price for this listing.",0,0,0,1,inquire,new,1,1749113323,1749113323,53016,1,Approved,71.105.170.252,0,0,1,-OT3JzHUzMV5vhceExnJ,53016,1,56356,joe@jabdesigngroup.com
+158969,990,480614,1750267702,"Kerry Joyce Atelier",3,"saxon mirror","Kerry  Joyce",Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"sebastian  zuchowicki",NULL,sz@sebastianzuchowicki.com," I would like to request the price for this listing.","Contemporary | Modern","I would like to request the price for this listing.",1,0,0,1,inquire,,0,1699615575,1700160231,40273,1,Approved,74.72.158.15,0,0,1,-OT34QRgCfFOsC6UjdO_,40273,1,21044,kerry@kerryjoyce.com
+158968,1553,324743,1750266277,"2220 Antiques",3,"A Modern glass table lamp, with silver base",,Furniture,furniture,Lighting,lighting,"Table Lamps",table-lamps,"2220 Antiques",267.534.4395,info@showrooms2220.com,"Hello -thank you for your inquiry and patience. This piece is not available however we do have these comparable lamps in stock. The shades are included. Please let us know if you have any questions. 
+https://showrooms2220.com/product/1006/a-tall-swirl-glass-table-lamp-contemporary
+https://showrooms2220.com/product/1004/a-french-modern-lucite-table-lamp-in-the-manner-of-karl-springer-c-1980
+Thank you
+Jess","Contemporary | Modern","I would like to request more details about the condition of this listing.  ",0,0,0,1,inquire,,1,1633548780,1633548780,27991,1,Approved,96.64.82.249,0,0,1,-OT2zzTMsT0sv9CIuf1z,27991,1,43118,intern@dkda.com
+158967,582,477343,1750264145,"L&#039;Art De Vivre",3,"Pair of  Gold Leafed Sconces by Herve Wahlen","Hervé  Wahlen",Furniture,furniture,Lighting,lighting,"Wall Lights and Sconces",wall-lights-and-sconces,"Anna Sepanski",NULL,annas@dkdltd.com," I would like to request the trade price/dimensions for this listing.","Collectible Design | Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1700225394,1736257465,52818,1,Approved,68.132.241.24,0,0,1,-OT2rqD5FO_39DaklRux,52818,1,14277,cfuller174@aol.com
+158966,582,423562,1750264118,"L&#039;Art De Vivre",3,"Magnificent Contemporary Mirror in Vintage Italian Glass",,Furniture,furniture,Mirrors,mirrors,"Wall Mirrors",wall-mirrors,"Anna Sepanski",NULL,annas@dkdltd.com," I would like to request the trade price/dimensions for this listing.","Collectible Design | Contemporary | Modern","I would like to request the trade price for this listing.",0,0,0,1,inquire,,0,1674307589,1744879581,52818,1,Approved,68.132.241.24,0,0,1,-OT2rkSsSnmfdkKaH-oS,52818,1,14277,cfuller174@aol.com
+158965,2398,593082,1750262997,"MAI Memorial Antiques & Interiors ",2,"19th Century French Commode with Marble Top",,Furniture,furniture,"Storage & Case Pieces",case-pieces,"Chests & Commodes",chests-commodes,"Linda leonard",NULL,linda@lindaleonard.com," I would like to request height dimensions for this listing. The listing says it is 3" height. Thank you!","Louis Philippe | Traditional","I would like to request dimensions for this listing.",1,0,0,1,inquire,trade,0,1749712485,1749712485,41204,1,Approved,24.7.194.183,0,0,1,-OT2nTo55vmv5ZB2O2UK,41204,1,55565,onlinesales@maihouston.com
+158964,695,172233,1750261608,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"NYC Modern",347.423.6446,NYCModern1@gmail.com,"Hi Bruce,
+The pedestal will be shipped out Tomorrow,I will send the Information as soon as it is sent.
+Thank You,
+Vanessa","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16793,1,Approved,174.198.7.3,0,0,1,-OT2iAjzCdWUwwPFZszC,16793,1,16819,info@brucefoxdesign.com
+158963,695,172233,1750259643,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"Bruce Fox Design",312.464.0077,info@brucefoxdesign.com,"I sent in payment! Do you know when this will ship? ","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16819,1,Approved,96.92.193.133,0,0,1,-OT2afycW-lWmwacCsCR,16819,1,16793,NYCModern1@gmail.com
+158962,695,172233,1750257607,"NYC Modern",3,"Patchwork Mixed Metal Pedestal in the Manner of Paul Evans",,Furniture,furniture,Tables,tables,"Pedestals & Stands",pedestals,"NYC Modern",347.423.6446,NYCModern1@gmail.com,"Hi Bruce,
+I sent the Invoice.
+Thank You,
+Vanessa","Brutalist | Modern",,0,1,3040,1,make-offer,,1,1559009600,1559009600,16793,1,Approved,72.69.104.42,0,0,1,-OT2TuRs9e5hCvjFCjfZ,16793,1,16819,info@brucefoxdesign.com
